@@ -1,1 +1,15 @@
-{"created_at":"2015-02-03 09:23:12 UTC","auido":"EL IDIOMA DE LOS DIOSES","identities":[],"madrinos":["colgado"],"autor":"NACH","vídeo":"https://www.youtube.com/watch?v=OPqS0Y5-2L4","relacionado":"http://lacoctuitera.es/updates/54d12e902a17e900030000cb"}
+{
+  "@context": "http://localhost:10001/json-context.json",
+  "@id": "http://localhost:10001/tuits/EL IDIOMA DE LOS DIOSES",
+  "auido": "EL IDIOMA DE LOS DIOSES",
+  "created_at": "2015-02-03 09:23:12 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "autor": "NACH",
+  "vídeo": "https://www.youtube.com/watch?v=OPqS0Y5-2L4",
+  "relacionado": "http://lacoctuitera.es/updates/54d12e902a17e900030000cb"
+}

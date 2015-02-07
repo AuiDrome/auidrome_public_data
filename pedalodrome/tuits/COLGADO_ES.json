@@ -1,1 +1,18 @@
-{"created_at":"2015-01-08 17:24:13 UTC","auido":"COLGADO_ES","identities":["colgado_es","colgado_en","colgado"],"madrinos":["albertoknapp"],"hija":["OLALLA","IRIA"]}
+{
+  "@context": "http://localhost:5005/json-context.json",
+  "@id": "http://localhost:5005/tuits/COLGADO_ES",
+  "auido": "COLGADO_ES",
+  "created_at": "2015-01-08 17:24:13 UTC",
+  "identity": [
+    "twitter/colgado_es",
+    "twitter/colgado_en",
+    "twitter/colgado"
+  ],
+  "madrino": [
+    "twitter/albertoknapp"
+  ],
+  "hija": [
+    "OLALLA",
+    "IRIA"
+  ]
+}

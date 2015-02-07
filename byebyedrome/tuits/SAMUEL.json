@@ -1,1 +1,17 @@
-{"created_at":"2014-12-12 12:02:44 UTC","auido":"SAMUEL","identities":["zaryel"],"madrinos":["cicloon","nosoy1mas","colgado"],"linkedin":"es.linkedin.com/in/samuelnavas"}
+{
+  "@context": "http://localhost:6006/json-context.json",
+  "@id": "http://localhost:6006/tuits/SAMUEL",
+  "auido": "SAMUEL",
+  "created_at": "2014-12-12 12:02:44 UTC",
+  "identity": [
+    "twitter/zaryel"
+  ],
+  "madrino": [
+    "twitter/cicloon",
+    "twitter/nosoy1mas",
+    "twitter/colgado"
+  ],
+  "@context": "http://localhost:6006/json-context.json",
+  "@id": "http://localhost:6006/tuits/SAMUEL",
+  "linkedin": "es.linkedin.com/in/samuelnavas"
+}

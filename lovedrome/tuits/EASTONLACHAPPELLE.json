@@ -1,1 +1,13 @@
-{"created_at":"2015-01-30 17:41:20 UTC","auido":"EASTONLACHAPPELLE","identities":[],"madrinos":["colgado"],"vídeo":"http://blog.theveteranssite.com/easton-lachappelle/#7Qeu2ZwHUE3jyFvl.97"}
+{
+  "@context": "http://localhost:6556/json-context.json",
+  "@id": "http://localhost:6556/tuits/EASTONLACHAPPELLE",
+  "auido": "EASTONLACHAPPELLE",
+  "created_at": "2015-01-30 17:41:20 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "vídeo": "http://blog.theveteranssite.com/easton-lachappelle/#7Qeu2ZwHUE3jyFvl.97"
+}

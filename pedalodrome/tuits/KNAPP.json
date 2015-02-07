@@ -1,1 +1,13 @@
-{"auido":"KNAPP","identities":['albertoknapp'],"madrinos":['enecabe'],"Web":"albertoknapp.com", "Twitter": "@albertoknapp"}
+{
+  "@context": "http://localhost:5005/json-context.json",
+  "@id": "http://localhost:5005/tuits/KNAPP",
+  "auido": "KNAPP",
+  "created_at": "2014-12-02 08:55:48 UTC",
+  "identity": [
+    "twitter/albertoknapp"
+  ],
+  "madrino": [
+
+  ],
+  "web": "albertoknapp.com"
+}

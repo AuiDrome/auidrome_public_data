@@ -1,1 +1,15 @@
-{"created_at":"2015-02-03 07:48:57 UTC","auido":"DDMQMM","identities":["colgado"],"madrinos":[],"siglas de":"Dichos De Mayores Que Me Molan","historia":"https://storify.com/colgado/dichos-de-mayores-que-me-molan","monolog":"http://lacoctuitera.es/updates/54d07d2efa37050003000240"}
+{
+  "@context": "http://localhost:10003/json-context.json",
+  "@id": "http://localhost:10003/tuits/DDMQMM",
+  "auido": "DDMQMM",
+  "created_at": "2015-02-03 07:48:57 UTC",
+  "identity": [
+    "twitter/colgado"
+  ],
+  "madrino": [
+
+  ],
+  "siglas de": "Dichos De Mayores Que Me Molan",
+  "historia": "https://storify.com/colgado/dichos-de-mayores-que-me-molan",
+  "monolog": "http://lacoctuitera.es/updates/54d07d2efa37050003000240"
+}

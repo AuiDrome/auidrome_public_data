@@ -1,1 +1,15 @@
-{"created_at":"2015-01-01 19:16:18 UTC","auido":"PERDOMO","identities":[],"madrinos":["colgado"],"Twitter":"@albertoperdomo", "Github":"http://github.com/albertoperdomo","Web":"http://albertoperdomo.net/"}
+{
+  "@context": "http://localhost:6556/json-context.json",
+  "@id": "http://localhost:6556/tuits/PERDOMO",
+  "auido": "PERDOMO",
+  "created_at": "2015-01-01 19:16:18 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "Twitter": "@albertoperdomo",
+  "Github": "http://github.com/albertoperdomo",
+  "Web": "http://albertoperdomo.net/"
+}

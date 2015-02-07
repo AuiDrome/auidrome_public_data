@@ -1,1 +1,15 @@
-{"created_at":"2015-01-30 16:00:14 UTC","auido":"HACKEANDO REDACCIONES CON RUBY","identities":[],"madrinos":["colgado"],"ponente":"DAVIDCABO","evento":"MADRID-RB","vídeo":"https://vimeo.com/111778599"}
+{
+  "@context": "http://localhost:10001/json-context.json",
+  "@id": "http://localhost:10001/tuits/HACKEANDO REDACCIONES CON RUBY",
+  "auido": "HACKEANDO REDACCIONES CON RUBY",
+  "created_at": "2015-01-30 16:00:14 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "ponente": "DAVIDCABO",
+  "evento": "MADRID-RB",
+  "vídeo": "https://vimeo.com/111778599"
+}

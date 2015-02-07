@@ -1,1 +1,14 @@
-{"created_at":"2015-01-22 09:50:54 UTC","auido":"MAGGIE","identities":[],"madrinos":["colgado"],"photo":"http://instagram.com/p/wv8qFqImLF","EN EL PEDALÓDROMO":"http://otaony.com:5005/tuits/MAGGIE"}
+{
+  "@context": "http://localhost:3333/json-context.json",
+  "@id": "http://localhost:3333/tuits/MAGGIE",
+  "auido": "MAGGIE",
+  "created_at": "2015-01-22 09:50:54 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "photo": "http://instagram.com/p/wv8qFqImLF",
+  "EN EL PEDALÓDROMO": "http://otaony.com:5005/tuits/MAGGIE"
+}

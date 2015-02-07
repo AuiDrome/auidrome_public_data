@@ -1,1 +1,16 @@
-{"created_at":"2015-01-13 08:55:18 UTC","auido":"RELEASE RESPONSIBLY","identities":[],"madrinos":["colgado"],"vía":"ÁLVAROSÁNCHEZ","evento":"BARUCO2014","ponente":"EMILYSTOLFO","talk":"http://youtube.com/watch?v=OUgqej5SC_M"}
+{
+  "@context": "http://localhost:10001/json-context.json",
+  "@id": "http://localhost:10001/tuits/RELEASE RESPONSIBLY",
+  "auido": "RELEASE RESPONSIBLY",
+  "created_at": "2015-01-13 08:55:18 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "vía": "ÁLVAROSÁNCHEZ",
+  "evento": "BARUCO2014",
+  "ponente": "EMILYSTOLFO",
+  "talk": "http://youtube.com/watch?v=OUgqej5SC_M"
+}

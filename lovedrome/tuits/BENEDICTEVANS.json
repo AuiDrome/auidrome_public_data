@@ -1,1 +1,13 @@
-{"madrinos":["albertoknapp"],"web":"ben-evans.com","created_at":"2015-01-07 08:06:59 UTC","auido":"BENEDICTEVANS","identities":[]}
+{
+  "@context": "http://localhost:6556/json-context.json",
+  "@id": "http://localhost:6556/tuits/BENEDICTEVANS",
+  "auido": "BENEDICTEVANS",
+  "created_at": "2015-01-07 08:06:59 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/albertoknapp"
+  ],
+  "web": "ben-evans.com"
+}

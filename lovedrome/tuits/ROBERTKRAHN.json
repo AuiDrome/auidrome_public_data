@@ -1,1 +1,13 @@
-{"created_at":"2015-01-08 21:20:43 UTC","auido":"ROBERTKRAHN","identities":[],"madrinos":["colgado_en"], "Web":"robert.kra.hn"}
+{
+  "@context": "http://localhost:6556/json-context.json",
+  "@id": "http://localhost:6556/tuits/ROBERTKRAHN",
+  "auido": "ROBERTKRAHN",
+  "created_at": "2015-01-08 21:20:43 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_en"
+  ],
+  "Web": "robert.kra.hn"
+}

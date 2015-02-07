@@ -1,1 +1,15 @@
-{"created_at":"2014-12-14 22:29:28 UTC","auido":"PDMX-20140304","identities":["colgado","colgado_en"],"madrinos":[]}
+{
+  "@context": "http://localhost:4004/json-context.json",
+  "@id": "http://localhost:4004/tuits/PDMX-20140304",
+  "auido": "PDMX-20140304",
+  "created_at": "2014-12-14 22:29:28 UTC",
+  "identity": [
+    "twitter/colgado",
+    "twitter/colgado_en"
+  ],
+  "madrino": [
+
+  ],
+  "@context": "http://localhost:4004/json-context.json",
+  "@id": "http://localhost:4004/tuits/PDMX-20140304"
+}

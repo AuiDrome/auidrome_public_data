@@ -1,1 +1,17 @@
-{"created_at":"2015-01-24 13:12:11 UTC","auido":"JS UNIT TESTING ON RAILS","identities":["cicloon"],"madrinos":["colgado"],"autor":["ALEXLEÓN"],"codetail":"http://tinyurl.com/p34uuwa","code":"https://github.com/cicloon/teaspoon_test"}
+{
+  "@context": "http://localhost:10001/json-context.json",
+  "@id": "http://localhost:10001/tuits/JS UNIT TESTING ON RAILS",
+  "auido": "JS UNIT TESTING ON RAILS",
+  "created_at": "2015-01-24 13:12:11 UTC",
+  "identity": [
+    "twitter/cicloon"
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "autor": [
+    "ALEXLEÓN"
+  ],
+  "codetail": "http://tinyurl.com/p34uuwa",
+  "code": "https://github.com/cicloon/teaspoon_test"
+}

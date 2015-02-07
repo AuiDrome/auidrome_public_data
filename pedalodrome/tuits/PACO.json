@@ -1,1 +1,12 @@
-{"created_at":"2015-01-08 09:18:02 UTC","auido":"PACO","identities":[],"madrinos":["colgado"], "sound":"soundcloud.com/frans-martins"}
+{
+  "@context": "http://localhost:5005/json-context.json",
+  "@id": "http://localhost:5005/tuits/PACO",
+  "auido": "PACO",
+  "created_at": "2015-01-08 09:18:02 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ]
+}

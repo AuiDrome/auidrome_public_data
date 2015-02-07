@@ -1,1 +1,15 @@
-{"created_at":"2015-01-27 10:33:53 UTC","auido":"EVENT YOUR LIFE WITH KAFKA","identities":[],"madrinos":["colgado"],"ponente":"MARICARMEN","evento":"MADRID-RB","vídeo":"https://vimeo.com/117742863"}
+{
+  "@context": "http://localhost:10001/json-context.json",
+  "@id": "http://localhost:10001/tuits/EVENT YOUR LIFE WITH KAFKA",
+  "auido": "EVENT YOUR LIFE WITH KAFKA",
+  "created_at": "2015-01-27 10:33:53 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "ponente": "MARICARMEN",
+  "evento": "MADRID-RB",
+  "vídeo": "https://vimeo.com/117742863"
+}

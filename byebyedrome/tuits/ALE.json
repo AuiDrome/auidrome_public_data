@@ -1,0 +1,14 @@
+{
+  "@context": "http://localhost:6006/json-context.json",
+  "@id": "http://localhost:6006/tuits/ALE",
+  "auido": "ALE",
+  "created_at": "2014-12-19 13:07:59 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "@context": "http://localhost:6006/json-context.json",
+  "@id": "http://localhost:6006/tuits/ALE"
+}

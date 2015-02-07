@@ -1,1 +1,15 @@
-{"created_at":"2015-01-01 14:20:13 UTC","auido":"NORIA","identities":[],"madrinos":["colgado"],"Twitter":"@fxn", "Github":"http://github.com/fxn","Web":"http://www.hashref.com/"}
+{
+  "@context": "http://localhost:6556/json-context.json",
+  "@id": "http://localhost:6556/tuits/NORIA",
+  "auido": "NORIA",
+  "created_at": "2015-01-01 14:20:13 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "Twitter": "@fxn",
+  "Github": "http://github.com/fxn",
+  "Web": "http://www.hashref.com/"
+}

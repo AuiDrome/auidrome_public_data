@@ -1,1 +1,17 @@
-{"created_at":"2015-01-30 16:23:07 UTC","auido":"JAVIERCUEVAS","identities":[],"madrinos":["colgado"],"twitter":"@javier_dev","proyecto":["DIACODE","http://gudog.com"]}
+{
+  "@context": "http://localhost:6556/json-context.json",
+  "@id": "http://localhost:6556/tuits/JAVIERCUEVAS",
+  "auido": "JAVIERCUEVAS",
+  "created_at": "2015-01-30 16:23:07 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "twitter": "@javier_dev",
+  "proyecto": [
+    "DIACODE",
+    "http://gudog.com"
+  ]
+}

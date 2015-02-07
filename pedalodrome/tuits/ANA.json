@@ -1,1 +1,12 @@
-{"created_at":"2015-01-23 16:05:04 UTC","auido":"ANA","identities":[],"madrinos":["cicloon"]}
+{
+  "@context": "http://localhost:5005/json-context.json",
+  "@id": "http://localhost:5005/tuits/ANA",
+  "auido": "ANA",
+  "created_at": "2015-01-23 16:05:04 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/cicloon"
+  ]
+}

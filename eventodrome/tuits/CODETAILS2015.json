@@ -1,1 +1,17 @@
-{"created_at":"2015-01-24 13:03:12 UTC","auido":"CODETAILS2015","identities":[],"madrinos":["colgado","colgado_es"],"codetail":["JS UNIT TESTING ON RAILS","DROMADICTION"]}
+{
+  "@context": "http://localhost:30003/json-context.json",
+  "@id": "http://localhost:30003/tuits/CODETAILS2015",
+  "auido": "CODETAILS2015",
+  "created_at": "2015-01-24 13:03:12 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado",
+    "twitter/colgado_es"
+  ],
+  "codetail": [
+    "JS UNIT TESTING ON RAILS",
+    "DROMADICTION"
+  ]
+}

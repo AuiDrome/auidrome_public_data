@@ -1,1 +1,14 @@
-{"created_at":"2015-01-27 08:30:10 UTC","auido":"MÓNICA","identities":[],"madrinos":["colgado"],"twitter":"@lamstrung","dep.":"TCK-ANALYSIS"}
+{
+  "@context": "http://localhost:5005/json-context.json",
+  "@id": "http://localhost:5005/tuits/MÓNICA",
+  "auido": "MÓNICA",
+  "created_at": "2015-01-27 08:30:10 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "twitter": "@lamstrung",
+  "dep.": "TCK-ANALYSIS"
+}

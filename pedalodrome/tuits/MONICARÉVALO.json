@@ -1,1 +1,13 @@
-{"created_at":"2015-01-26 09:35:27 UTC","auido":"MONICARÉVALO","identities":[],"madrinos":["colgado"],"project":"GTM-RAILS"}
+{
+  "@context": "http://localhost:5005/json-context.json",
+  "@id": "http://localhost:5005/tuits/MONICARÉVALO",
+  "auido": "MONICARÉVALO",
+  "created_at": "2015-01-26 09:35:27 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "project": "GTM-RAILS"
+}

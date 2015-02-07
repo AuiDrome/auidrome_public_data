@@ -1,1 +1,14 @@
-{"created_at":"2015-02-05 18:46:36 UTC","auido":"KNOWLEDGE AND SEMANTIC STORAGE","identities":[],"madrinos":["colgado"],"to know":"https://archive.org/details/WHATDOESITMEANTOKNOW","featuring":"FXNOBLE"}
+{
+  "@context": "http://localhost:10003/json-context.json",
+  "@id": "http://localhost:10003/tuits/KNOWLEDGE AND SEMANTIC STORAGE",
+  "auido": "KNOWLEDGE AND SEMANTIC STORAGE",
+  "created_at": "2015-02-05 18:46:36 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "to know": "https://archive.org/details/WHATDOESITMEANTOKNOW",
+  "featuring": "FXNOBLE"
+}

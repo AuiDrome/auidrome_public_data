@@ -1,1 +1,15 @@
-{"created_at":"2015-01-02 09:32:12 UTC","auido":"DIEGORODRIGUEZ","identities":[],"madrinos":["colgado"],"Twitter":"@diec123","Technical bites":"http://diec123.blogspot.com.es/"}
+{
+  "@context": "http://localhost:6556/json-context.json",
+  "@id": "http://localhost:6556/tuits/DIEGORODRÍGUEZ",
+  "auido": "DIEGORODRÍGUEZ",
+  "created_at": "2015-01-01 14:20:13 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "Twitter": "@diec123",
+  "Github": "http://github.com/diec123",
+  "Technical bites": "http://diec123.blogspot.com.es"
+}

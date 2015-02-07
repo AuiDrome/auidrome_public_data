@@ -1,1 +1,14 @@
-{"created_at":"2015-02-04 08:09:41 UTC","auido":"METRICS THAT MATTER","identities":[],"madrinos":["colgado"],"autor":"CHRISKOTTOM","post":"http://chriskottom.com/blog/2015/01/code-quality-metrics-that-matter/"}
+{
+  "@context": "http://localhost:10001/json-context.json",
+  "@id": "http://localhost:10001/tuits/METRICS THAT MATTER",
+  "auido": "METRICS THAT MATTER",
+  "created_at": "2015-02-04 08:09:41 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "autor": "CHRISKOTTOM",
+  "post": "http://chriskottom.com/blog/2015/01/code-quality-metrics-that-matter/"
+}

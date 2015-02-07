@@ -1,1 +1,13 @@
-{"created_at":"2015-01-27 16:01:21 UTC","auido":"ELENA","identities":[],"madrinos":["colgado"],"dep.":"TCK-ANALYSIS"}
+{
+  "@context": "http://localhost:5005/json-context.json",
+  "@id": "http://localhost:5005/tuits/ELENA",
+  "auido": "ELENA",
+  "created_at": "2015-01-27 16:01:21 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "dep.": "TCK-ANALYSIS"
+}

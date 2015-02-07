@@ -1,1 +1,19 @@
-{"created_at":"2015-01-23 10:33:03 UTC","auido":"DELL VOSTRO 2013","identities":["colgado_es"],"madrinos":[],"tags":"portátil mint16","fotos":["http://instagram.com/p/xTtthSImJb","http://instagram.com/p/uTWJIcomOM","http://instagram.com/p/shvnQ2ImMu","http://instagram.com/p/scQS6BomCI"]}
+{
+  "@context": "http://localhost:40004/json-context.json",
+  "@id": "http://localhost:40004/tuits/DELL VOSTRO 2013",
+  "auido": "DELL VOSTRO 2013",
+  "created_at": "2015-01-23 10:33:03 UTC",
+  "identity": [
+    "twitter/colgado_es"
+  ],
+  "madrino": [
+
+  ],
+  "tags": "portátil mint16",
+  "fotos": [
+    "http://instagram.com/p/xTtthSImJb",
+    "http://instagram.com/p/uTWJIcomOM",
+    "http://instagram.com/p/shvnQ2ImMu",
+    "http://instagram.com/p/scQS6BomCI"
+  ]
+}

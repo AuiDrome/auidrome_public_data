@@ -1,1 +1,14 @@
-{"created_at":"2015-02-05 12:47:18 UTC","auido":"DOCUMENTAL SOBRE MONEDAS ALTERNATIVAS","identities":[],"madrinos":["colgado"],"vídeo":"http://www.rtve.es/television/20131009/documentos-tv-monedas-cambio/760907.shtml","hebra en plaza.podemos":"http://www.reddit.com/r/podemos/comments/29kez3/documental_sobre_la_monedas_alternativas_al_euro/"}
+{
+  "@context": "http://localhost:10001/json-context.json",
+  "@id": "http://localhost:10001/tuits/DOCUMENTAL SOBRE MONEDAS ALTERNATIVAS",
+  "auido": "DOCUMENTAL SOBRE MONEDAS ALTERNATIVAS",
+  "created_at": "2015-02-05 12:47:18 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "vídeo": "http://www.rtve.es/television/20131009/documentos-tv-monedas-cambio/760907.shtml",
+  "hebra en plaza.podemos": "http://www.reddit.com/r/podemos/comments/29kez3/documental_sobre_la_monedas_alternativas_al_euro/"
+}

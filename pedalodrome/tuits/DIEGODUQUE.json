@@ -1,1 +1,13 @@
-{"created_at":"2015-01-29 12:29:41 UTC","auido":"DIEGODUQUE","identities":["Diego_Zumajo"],"madrinos":["colgado"],"compañero":"ALBERTOSÁNCHEZ"}
+{
+  "@context": "http://localhost:5005/json-context.json",
+  "@id": "http://localhost:5005/tuits/DIEGODUQUE",
+  "auido": "DIEGODUQUE",
+  "created_at": "2015-01-29 12:29:41 UTC",
+  "identity": [
+    "twitter/Diego_Zumajo"
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "compañero": "ALBERTOSÁNCHEZ"
+}

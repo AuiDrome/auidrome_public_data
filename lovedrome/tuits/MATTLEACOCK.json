@@ -1,1 +1,17 @@
-{"created_at":"2014-12-31 12:32:09 UTC","auido":"MATTLEACOCK","identities":[],"madrinos":["colgado"],"Twitter":"@mleacock", "tags":["collaborative games", "cooperation"]}
+{
+  "@context": "http://localhost:6556/json-context.json",
+  "@id": "http://localhost:6556/tuits/MATTLEACOCK",
+  "auido": "MATTLEACOCK",
+  "created_at": "2014-12-31 12:32:09 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "Twitter": "@mleacock",
+  "tags": [
+    "collaborative games",
+    "cooperation"
+  ]
+}

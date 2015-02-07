@@ -1,1 +1,14 @@
-{"created_at":"2015-01-30 11:58:00 UTC","auido":"ARUNTOMAR","identities":[],"madrinos":["colgado"],"web":"linuxguy.in","email":"tomar.arun@gmail.com"}
+{
+  "@context": "http://localhost:6556/json-context.json",
+  "@id": "http://localhost:6556/tuits/ARUNTOMAR",
+  "auido": "ARUNTOMAR",
+  "created_at": "2015-01-30 11:58:00 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "web": "linuxguy.in",
+  "email": "tomar.arun@gmail.com"
+}

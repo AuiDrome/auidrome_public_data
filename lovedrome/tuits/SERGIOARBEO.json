@@ -1,1 +1,21 @@
-{"created_at":"2015-01-10 10:33:59 UTC","auido":"SERGIOARBEO","identities":[],"madrinos":["colgado","colgado_es"],"web":"serabe.com","email":"serabe@serabe.com","twitter":"@serabe","note":"SEMANTIC VERSIONING","recomendación":["\"El Hombre Anumérico\" de John Allen Paulos","“Imposturas intelectuales” de Alan Sokal"]}
+{
+  "@context": "http://localhost:6556/json-context.json",
+  "@id": "http://localhost:6556/tuits/SERGIOARBEO",
+  "auido": "SERGIOARBEO",
+  "created_at": "2015-01-10 10:33:59 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado",
+    "twitter/colgado_es"
+  ],
+  "web": "serabe.com",
+  "email": "serabe@serabe.com",
+  "twitter": "@serabe",
+  "note": "SEMANTIC VERSIONING",
+  "recomendación": [
+    "\"El Hombre Anumérico\" de John Allen Paulos",
+    "“Imposturas intelectuales” de Alan Sokal"
+  ]
+}

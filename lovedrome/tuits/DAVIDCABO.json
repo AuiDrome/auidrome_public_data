@@ -1,1 +1,14 @@
-{"created_at":"2015-01-30 15:47:19 UTC","auido":"DAVIDCABO","identities":[],"madrinos":["colgado"],"twitter":"@dcabo","proyecto":"CIVIO"}
+{
+  "@context": "http://localhost:6556/json-context.json",
+  "@id": "http://localhost:6556/tuits/DAVIDCABO",
+  "auido": "DAVIDCABO",
+  "created_at": "2015-01-30 15:47:19 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "twitter": "@dcabo",
+  "proyecto": "CIVIO"
+}

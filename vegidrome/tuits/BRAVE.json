@@ -1,1 +1,17 @@
-{"created_at":"2015-01-22 09:43:31 UTC","auido":"BRAVE","identities":["colgado"],"madrinos":["colgado"],"Conmigo":"http://lacoctuitera.es/updates/54bfbd47e1f5960003001908","photo":["http://instagram.com/p/yHmoAjomF8","https://www.flickr.com/photos/thecocktail/16054673732/"]}
+{
+  "@context": "http://localhost:8888/json-context.json",
+  "@id": "http://localhost:8888/tuits/BRAVE",
+  "auido": "BRAVE",
+  "created_at": "2015-01-22 09:43:31 UTC",
+  "identity": [
+    "twitter/colgado"
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "Conmigo": "http://lacoctuitera.es/updates/54bfbd47e1f5960003001908",
+  "photo": [
+    "http://instagram.com/p/yHmoAjomF8",
+    "https://www.flickr.com/photos/thecocktail/16054673732/"
+  ]
+}

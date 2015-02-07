@@ -1,1 +1,17 @@
-{"created_at":"2015-01-30 12:53:34 UTC","auido":"SUMMLY Y NICK D'ALOISIO","identities":[],"madrinos":["colgado"],"artículo":["http://www.elperiodicodearagon.com/noticias/internacional/chico-17-anos-vende-aplicacion-yahoo-30-millones_841742.html","http://business.time.com/2013/03/29/qa-with-the-17-year-old-who-sold-an-app-to-yahoo-for-30-million/"],"vía":"ANISA"}
+{
+  "@context": "http://localhost:10001/json-context.json",
+  "@id": "http://localhost:10001/tuits/SUMMLY Y NICK D'ALOISIO",
+  "auido": "SUMMLY Y NICK D'ALOISIO",
+  "created_at": "2015-01-30 12:53:34 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "artículo": [
+    "http://www.elperiodicodearagon.com/noticias/internacional/chico-17-anos-vende-aplicacion-yahoo-30-millones_841742.html",
+    "http://business.time.com/2013/03/29/qa-with-the-17-year-old-who-sold-an-app-to-yahoo-for-30-million/"
+  ],
+  "vía": "ANISA"
+}

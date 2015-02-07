@@ -1,1 +1,14 @@
-{"created_at":"2015-02-03 20:15:51 UTC","auido":"DROMADICTION","identities":["colgado_es"],"madrinos":["colgado_es"],"slides":"https://github.com/nando/codetails_dromadiction","evento":"CODETAILS2015"}
+{
+  "@context": "http://localhost:10001/json-context.json",
+  "@id": "http://localhost:10001/tuits/DROMADICTION",
+  "auido": "DROMADICTION",
+  "created_at": "2015-02-03 20:15:51 UTC",
+  "identity": [
+    "twitter/colgado_es"
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "slides": "https://github.com/nando/codetails_dromadiction",
+  "evento": "CODETAILS2015"
+}

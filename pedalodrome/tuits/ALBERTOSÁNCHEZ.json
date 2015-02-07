@@ -1,1 +1,15 @@
-{"created_at":"2015-02-02 14:44:07 UTC","auido":"ALBERTOSÁNCHEZ","identities":[],"madrinos":["colgado"],"compañero":"DIEGODUQUE","dep.":"CRM","skype":"albertosanchez2220"}
+{
+  "@context": "http://localhost:5005/json-context.json",
+  "@id": "http://localhost:5005/tuits/ALBERTOSÁNCHEZ",
+  "auido": "ALBERTOSÁNCHEZ",
+  "created_at": "2015-02-02 14:44:07 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "compañero": "DIEGODUQUE",
+  "dep.": "CRM",
+  "skype": "albertosanchez2220"
+}

@@ -1,1 +1,15 @@
-{"created_at":"2015-01-25 19:57:46 UTC","auido":"LIBRELIST.COM","identities":[],"madrinos":["colgado_es"],"project":["HTTP://LIBRELIST.COM"]}
+{
+  "@context": "http://localhost:20002/json-context.json",
+  "@id": "http://localhost:20002/tuits/LIBRELIST.COM",
+  "auido": "LIBRELIST.COM",
+  "created_at": "2015-01-25 19:57:46 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "project": [
+    "HTTP://LIBRELIST.COM"
+  ]
+}

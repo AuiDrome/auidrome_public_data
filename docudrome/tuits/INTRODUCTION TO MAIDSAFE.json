@@ -1,1 +1,13 @@
-{"created_at":"2015-01-18 21:41:57 UTC","auido":"INTRODUCTION TO MAIDSAFE","identities":[],"madrinos":["colgado"],"POST":"http://blanshey.com/introduction-to-maidsafe-what-it-is-how-it-works-and-how-it-compares-to-bitcoin/"}
+{
+  "@context": "http://localhost:10001/json-context.json",
+  "@id": "http://localhost:10001/tuits/INTRODUCTION TO MAIDSAFE",
+  "auido": "INTRODUCTION TO MAIDSAFE",
+  "created_at": "2015-01-18 21:41:57 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "POST": "http://blanshey.com/introduction-to-maidsafe-what-it-is-how-it-works-and-how-it-compares-to-bitcoin/"
+}

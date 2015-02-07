@@ -1,1 +1,14 @@
-{"created_at":"2015-01-26 09:37:24 UTC","auido":"GTM-RAILS","identities":[],"madrinos":["colgado"],"web":"https://github.com/nando/google-tag-manager-rails","colabora":"MONICARÉVALO"}
+{
+  "@context": "http://localhost:20002/json-context.json",
+  "@id": "http://localhost:20002/tuits/GTM-RAILS",
+  "auido": "GTM-RAILS",
+  "created_at": "2015-01-26 09:37:24 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "web": "https://github.com/nando/google-tag-manager-rails",
+  "colabora": "MONICARÉVALO"
+}

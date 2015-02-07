@@ -1,1 +1,20 @@
-{"created_at":"2015-02-05 10:05:59 UTC","auido":"RITA","identities":[],"madrinos":["colgado"],"nombre completo":"María Rosario Aldaz Donamaría","blog":["blogs.periodistadigital.com/gastronomianavarra.php","micocinanavarra.wordpress.com","elbaluartederita.wordpress.com"],"twitter":"@MariaRosarioAld","autora de":"Libro de Cocina \"EL BOSQUECILLO\""}
+{
+  "@context": "http://localhost:7007/json-context.json",
+  "@id": "http://localhost:7007/tuits/RITA",
+  "auido": "RITA",
+  "created_at": "2015-02-05 10:05:59 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "nombre completo": "María Rosario Aldaz Donamaría",
+  "blog": [
+    "blogs.periodistadigital.com/gastronomianavarra.php",
+    "micocinanavarra.wordpress.com",
+    "elbaluartederita.wordpress.com"
+  ],
+  "twitter": "@MariaRosarioAld",
+  "autora de": "Libro de Cocina \"EL BOSQUECILLO\""
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "http://localhost:5005/json-context.json",
+  "@id": "http://localhost:5005/tuits/GABI",
+  "auido": "GABI",
+  "created_at": "2014-12-18 08:52:54 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ]
+}

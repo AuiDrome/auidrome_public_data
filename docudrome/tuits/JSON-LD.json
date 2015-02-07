@@ -1,1 +1,15 @@
-{"created_at":"2015-01-13 07:54:13 UTC","auido":"JSON-LD","identities":[],"madrinos":["colgado"],"Web":"http://JSON-LD.ORG","VÍDEO TUTORIAL":"https://www.youtube.com/watch?v=vioCbTo3C-4","post":"http://manu.sporny.org/2014/json-ld-origins-2/"}
+{
+  "@context": "http://localhost:10001/json-context.json",
+  "@id": "http://localhost:10001/tuits/JSON-LD",
+  "auido": "JSON-LD",
+  "created_at": "2015-01-13 07:54:13 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "Web": "http://JSON-LD.ORG",
+  "VÍDEO TUTORIAL": "https://www.youtube.com/watch?v=vioCbTo3C-4",
+  "post": "http://manu.sporny.org/2014/json-ld-origins-2/"
+}

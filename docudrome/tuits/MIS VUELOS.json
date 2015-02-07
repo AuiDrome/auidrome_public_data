@@ -1,1 +1,17 @@
-{"created_at":"2015-01-25 17:35:32 UTC","auido":"MIS VUELOS","identities":[],"madrinos":["colgado"],"blog":"https://skyrides.wordpress.com/","vuelos2011":"http://xc.dhv.de/xc/modules/leonardo/index.php?pilotID=0_6461&year=0","vuelos2012/2013":"http://www.paraglidingforum.com/leonardo/tracks/world/alltimes/pilot:0_34710","en Archive.ORG":"https://archive.org/search.php?query=uploader:\"fernando.garcia@the-cocktail.com\"","parte":"VUELO DE GRANADA"}
+{
+  "@context": "http://localhost:10001/json-context.json",
+  "@id": "http://localhost:10001/tuits/MIS VUELOS",
+  "auido": "MIS VUELOS",
+  "created_at": "2015-01-25 17:35:32 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "blog": "https://skyrides.wordpress.com/",
+  "vuelos2011": "http://xc.dhv.de/xc/modules/leonardo/index.php?pilotID=0_6461&year=0",
+  "vuelos2012/2013": "http://www.paraglidingforum.com/leonardo/tracks/world/alltimes/pilot:0_34710",
+  "en Archive.ORG": "https://archive.org/search.php?query=uploader:\"fernando.garcia@the-cocktail.com\"",
+  "parte": "VUELO DE GRANADA"
+}

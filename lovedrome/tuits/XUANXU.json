@@ -1,1 +1,15 @@
-{"created_at":"2015-01-01 18:55:06 UTC","auido":"XUANXU","identities":[],"madrinos":["colgado"],"Twitter":"@xuanxu", "Github":"http://github.com/xuanxu","Web":"http://juanjobazan.com"}
+{
+  "@context": "http://localhost:6556/json-context.json",
+  "@id": "http://localhost:6556/tuits/XUANXU",
+  "auido": "XUANXU",
+  "created_at": "2015-01-01 18:55:06 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "Twitter": "@xuanxu",
+  "Github": "http://github.com/xuanxu",
+  "Web": "http://juanjobazan.com"
+}

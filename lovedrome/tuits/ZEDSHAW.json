@@ -1,1 +1,14 @@
-{"created_at":"2015-01-25 20:04:54 UTC","auido":"ZEDSHAW","identities":[],"madrinos":["colgado"],"web":"zedshaw.com","project":"LIBRELIST.COM"}
+{
+  "@context": "http://localhost:6556/json-context.json",
+  "@id": "http://localhost:6556/tuits/ZEDSHAW",
+  "auido": "ZEDSHAW",
+  "created_at": "2015-01-25 20:04:54 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "web": "zedshaw.com",
+  "project": "LIBRELIST.COM"
+}

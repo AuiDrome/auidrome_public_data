@@ -1,1 +1,13 @@
-{"created_at":"2015-02-05 18:37:08 UTC","auido":"UNIVERSITY OF NOTRE DAME","identities":[],"madrinos":["colgado"],"lugar":"NOTRE DAME, INDIANA (EEUU)"}
+{
+  "@context": "http://localhost:20002/json-context.json",
+  "@id": "http://localhost:20002/tuits/UNIVERSITY OF NOTRE DAME",
+  "auido": "UNIVERSITY OF NOTRE DAME",
+  "created_at": "2015-02-05 18:37:08 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "lugar": "NOTRE DAME, INDIANA (EEUU)"
+}

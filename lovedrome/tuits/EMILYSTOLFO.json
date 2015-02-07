@@ -1,1 +1,15 @@
-{"created_at":"2015-01-13 08:42:35 UTC","auido":"EMILYSTOLFO","identities":[],"madrinos":["colgado"],"Twitter":"@EmStolfo","talk":"https://www.youtube.com/watch?v=OUgqej5SC_M","thought":"SEMANTIC VERSIONING"}
+{
+  "@context": "http://localhost:6556/json-context.json",
+  "@id": "http://localhost:6556/tuits/EMILYSTOLFO",
+  "auido": "EMILYSTOLFO",
+  "created_at": "2015-01-13 08:42:35 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "Twitter": "@EmStolfo",
+  "talk": "https://www.youtube.com/watch?v=OUgqej5SC_M",
+  "thought": "SEMANTIC VERSIONING"
+}

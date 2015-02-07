@@ -1,1 +1,12 @@
-{"created_at":"2015-01-08 08:57:37 UTC","auido":"CRISTINAPEÑA","identities":["crispmiguelez"],"madrinos":[]}
+{
+  "@context": "http://localhost:5005/json-context.json",
+  "@id": "http://localhost:5005/tuits/CRISTINAPEÑA",
+  "auido": "CRISTINAPEÑA",
+  "created_at": "2015-01-08 08:57:37 UTC",
+  "identity": [
+    "twitter/crispmiguelez"
+  ],
+  "madrino": [
+
+  ]
+}

@@ -1,1 +1,17 @@
-{"created_at":"2015-01-22 10:49:22 UTC","auido":"BARUCO2014","identities":[],"madrinos":["colgado"],"talk":["RELEASE RESPONSIBLY","RUBY&MONADS"],"impulsa":"RUBY"}
+{
+  "@context": "http://localhost:30003/json-context.json",
+  "@id": "http://localhost:30003/tuits/BARUCO2014",
+  "auido": "BARUCO2014",
+  "created_at": "2015-01-22 10:49:22 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "talk": [
+    "RELEASE RESPONSIBLY",
+    "RUBY&MONADS"
+  ],
+  "impulsa": "RUBY"
+}

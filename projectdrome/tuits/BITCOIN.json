@@ -1,1 +1,13 @@
-{"created_at":"2015-02-05 12:04:15 UTC","auido":"BITCOIN","identities":[],"madrinos":[],"tag":"MONEDA"}
+{
+  "@context": "http://localhost:20002/json-context.json",
+  "@id": "http://localhost:20002/tuits/BITCOIN",
+  "auido": "BITCOIN",
+  "created_at": "2015-02-05 12:04:15 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "tag": "MONEDA"
+}

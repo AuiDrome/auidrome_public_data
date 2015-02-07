@@ -1,1 +1,13 @@
-{"created_at":"2015-02-04 14:38:40 UTC","auido":"PABLO2GARCIA","identities":[],"madrinos":["colgado"],"mail chulo":"https://mail.google.com/mail/u/0/h/heivafixurl8/?&th=14b54dd7ab399af1&v=c"}
+{
+  "@context": "http://localhost:6556/json-context.json",
+  "@id": "http://localhost:6556/tuits/PABLO2GARCIA",
+  "auido": "PABLO2GARCIA",
+  "created_at": "2015-02-04 14:38:40 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "mail chulo": "https://mail.google.com/mail/u/0/h/heivafixurl8/?&th=14b54dd7ab399af1&v=c"
+}

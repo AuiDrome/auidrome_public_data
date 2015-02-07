@@ -1,1 +1,13 @@
-{"created_at":"2015-01-22 08:04:31 UTC","auido":"CARLOSSÁEZ","identities":[],"madrinos":["colgado"],"twitter":"@Charliesbar66"}
+{
+  "@context": "http://localhost:5005/json-context.json",
+  "@id": "http://localhost:5005/tuits/CARLOSSÁEZ",
+  "auido": "CARLOSSÁEZ",
+  "created_at": "2015-01-22 08:04:31 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "twitter": "@Charliesbar66"
+}

@@ -1,1 +1,15 @@
-{"created_at":"2015-01-23 09:36:49 UTC","auido":"TEASPOON","identities":[],"madrinos":["colgado","colgado_es"],"vía":"ALEXLEÓN","code":"https://github.com/modeset/teaspoon"}
+{
+  "@context": "http://localhost:20002/json-context.json",
+  "@id": "http://localhost:20002/tuits/TEASPOON",
+  "auido": "TEASPOON",
+  "created_at": "2015-01-23 09:36:49 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado",
+    "twitter/colgado_es"
+  ],
+  "vía": "ALEXLEÓN",
+  "code": "https://github.com/modeset/teaspoon"
+}

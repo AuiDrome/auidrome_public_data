@@ -1,1 +1,14 @@
-{"email":"stefanikolaev@gmail.com","Tel.":"622 089 424","created_at":"2015-01-29 11:56:44 UTC","auido":"STEFAN","identities":[],"madrinos":["colgado"]}
+{
+  "@context": "http://localhost:5005/json-context.json",
+  "@id": "http://localhost:5005/tuits/STEFAN",
+  "auido": "STEFAN",
+  "created_at": "2015-01-29 11:56:44 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "email": "stefanikolaev@gmail.com",
+  "Tel.": "622 089 424"
+}

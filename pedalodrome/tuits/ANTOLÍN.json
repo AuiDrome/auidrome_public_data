@@ -1,1 +1,12 @@
-{"created_at":"2014-12-15 06:25:56 UTC","auido":"ANTOLÍN","identities":["jlantolinv"],"madrinos":[]}
+{
+  "@context": "http://localhost:5005/json-context.json",
+  "@id": "http://localhost:5005/tuits/ANTOLÍN",
+  "auido": "ANTOLÍN",
+  "created_at": "2014-12-15 06:25:56 UTC",
+  "identity": [
+    "twitter/jlantolinv"
+  ],
+  "madrino": [
+
+  ]
+}
