@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:10003/json-context.json",
-  "@id": "http://localhost:10003/tuits/ALINEÁNDOME CON EL EQUIPO HUMANO",
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/ALINEÁNDOME CON EL EQUIPO HUMANO",
   "auido": "ALINEÁNDOME CON EL EQUIPO HUMANO",
   "created_at": "2015-01-14 10:22:01 UTC",
   "identity": [

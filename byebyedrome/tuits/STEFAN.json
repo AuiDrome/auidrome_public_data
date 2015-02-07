@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:6006/json-context.json",
-  "@id": "http://localhost:6006/tuits/STEFAN",
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/STEFAN",
   "auido": "STEFAN",
   "created_at": "2015-01-27 22:12:51 UTC",
   "identity": [
@@ -9,7 +9,7 @@
   "madrino": [
     "twitter/colgado_es"
   ],
-  "@context": "http://localhost:6006/json-context.json",
-  "@id": "http://localhost:6006/tuits/STEFAN",
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/STEFAN",
   "apellido": "NIKOLAEV"
 }

@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:7007/json-context.json",
-  "@id": "http://localhost:7007/tuits/LUIS",
+  "@context": "http://otaony.com:7007/json-context.json",
+  "@id": "http://otaony.com:7007/tuits/LUIS",
   "auido": "LUIS",
   "created_at": "2014-12-17 11:16:05 UTC",
   "identity": [

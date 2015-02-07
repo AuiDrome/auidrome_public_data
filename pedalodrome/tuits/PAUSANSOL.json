@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:5005/json-context.json",
-  "@id": "http://localhost:5005/tuits/PAUSANSOL",
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/PAUSANSOL",
   "auido": "PAUSANSOL",
   "created_at": "2015-01-15 09:42:29 UTC",
   "identity": [

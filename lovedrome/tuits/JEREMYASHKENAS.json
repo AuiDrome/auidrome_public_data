@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:6556/json-context.json",
-  "@id": "http://localhost:6556/tuits/JEREMYASHKENAS",
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/JEREMYASHKENAS",
   "auido": "JEREMYASHKENAS",
   "created_at": "2015-01-07 22:40:28 UTC",
   "identity": [

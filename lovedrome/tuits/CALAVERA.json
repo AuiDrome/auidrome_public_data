@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:6556/json-context.json",
-  "@id": "http://localhost:6556/tuits/CALAVERA",
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/CALAVERA",
   "auido": "CALAVERA",
   "created_at": "2015-01-01 14:21:05 UTC",
   "identity": [

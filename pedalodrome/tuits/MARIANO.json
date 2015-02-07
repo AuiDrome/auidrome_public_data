@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:5005/json-context.json",
-  "@id": "http://localhost:5005/tuits/MARIANO",
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/MARIANO",
   "auido": "MARIANO",
   "created_at": "2015-01-22 09:13:42 UTC",
   "identity": [

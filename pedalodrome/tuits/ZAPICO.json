@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:5005/json-context.json",
-  "@id": "http://localhost:5005/tuits/ZAPICO",
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/ZAPICO",
   "auido": "ZAPICO",
   "created_at": "2015-01-09 15:34:18 UTC",
   "identity": [

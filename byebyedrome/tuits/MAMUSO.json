@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:6006/json-context.json",
-  "@id": "http://localhost:6006/tuits/MAMUSO",
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/MAMUSO",
   "auido": "MAMUSO",
   "created_at": "2014-12-12 12:02:23 UTC",
   "identity": [
@@ -9,6 +9,6 @@
   "madrino": [
 
   ],
-  "@context": "http://localhost:6006/json-context.json",
-  "@id": "http://localhost:6006/tuits/MAMUSO"
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/MAMUSO"
 }

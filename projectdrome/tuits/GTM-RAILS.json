@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:20002/json-context.json",
-  "@id": "http://localhost:20002/tuits/GTM-RAILS",
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/GTM-RAILS",
   "auido": "GTM-RAILS",
   "created_at": "2015-01-26 09:37:24 UTC",
   "identity": [

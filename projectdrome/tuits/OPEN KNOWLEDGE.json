@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:20002/json-context.json",
-  "@id": "http://localhost:20002/tuits/OPEN KNOWLEDGE",
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/OPEN KNOWLEDGE",
   "auido": "OPEN KNOWLEDGE",
   "created_at": "2015-01-30 16:54:19 UTC",
   "identity": [

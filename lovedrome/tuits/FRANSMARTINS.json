@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:6556/json-context.json",
-  "@id": "http://localhost:6556/tuits/FRANSMARTINS",
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/FRANSMARTINS",
   "auido": "FRANSMARTINS",
   "created_at": "2015-01-21 12:09:12 UTC",
   "identity": [

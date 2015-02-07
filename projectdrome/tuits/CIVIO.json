@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:20002/json-context.json",
-  "@id": "http://localhost:20002/tuits/CIVIO",
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/CIVIO",
   "auido": "CIVIO",
   "created_at": "2015-01-30 15:50:48 UTC",
   "identity": [

@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:20002/json-context.json",
-  "@id": "http://localhost:20002/tuits/RUBY",
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/RUBY",
   "auido": "RUBY",
   "created_at": "2015-02-05 12:21:44 UTC",
   "identity": [

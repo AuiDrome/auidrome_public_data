@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:5005/json-context.json",
-  "@id": "http://localhost:5005/tuits/RUBÉN",
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/RUBÉN",
   "auido": "RUBÉN",
   "created_at": "2015-01-15 11:33:09 UTC",
   "identity": [

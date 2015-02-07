@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:5005/json-context.json",
-  "@id": "http://localhost:5005/tuits/BRENES",
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/BRENES",
   "auido": "BRENES",
   "created_at": "2015-01-08 16:06:15 UTC",
   "identity": [

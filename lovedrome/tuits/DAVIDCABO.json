@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:6556/json-context.json",
-  "@id": "http://localhost:6556/tuits/DAVIDCABO",
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/DAVIDCABO",
   "auido": "DAVIDCABO",
   "created_at": "2015-01-30 15:47:19 UTC",
   "identity": [

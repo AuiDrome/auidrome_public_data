@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:20002/json-context.json",
-  "@id": "http://localhost:20002/tuits/TEASPOON",
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/TEASPOON",
   "auido": "TEASPOON",
   "created_at": "2015-01-23 09:36:49 UTC",
   "identity": [

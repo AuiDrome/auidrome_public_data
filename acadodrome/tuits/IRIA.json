@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:4004/json-context.json",
-  "@id": "http://localhost:4004/tuits/IRIA",
+  "@context": "http://otaony.com:4004/json-context.json",
+  "@id": "http://otaony.com:4004/tuits/IRIA",
   "auido": "IRIA",
   "created_at": "2014-12-15 17:14:57 UTC",
   "identity": [
@@ -9,6 +9,6 @@
   "madrino": [
     "twitter/colgado"
   ],
-  "@context": "http://localhost:4004/json-context.json",
-  "@id": "http://localhost:4004/tuits/IRIA"
+  "@context": "http://otaony.com:4004/json-context.json",
+  "@id": "http://otaony.com:4004/tuits/IRIA"
 }

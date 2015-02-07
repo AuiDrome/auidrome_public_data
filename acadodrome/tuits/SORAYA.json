@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:4004/json-context.json",
-  "@id": "http://localhost:4004/tuits/SORAYA",
+  "@context": "http://otaony.com:4004/json-context.json",
+  "@id": "http://otaony.com:4004/tuits/SORAYA",
   "auido": "SORAYA",
   "created_at": "2015-01-15 10:22:44 UTC",
   "identity": [
@@ -9,6 +9,6 @@
   "madrino": [
 
   ],
-  "@context": "http://localhost:4004/json-context.json",
-  "@id": "http://localhost:4004/tuits/SORAYA"
+  "@context": "http://otaony.com:4004/json-context.json",
+  "@id": "http://otaony.com:4004/tuits/SORAYA"
 }

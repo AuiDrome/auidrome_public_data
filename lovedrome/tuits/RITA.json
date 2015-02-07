@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:6556/json-context.json",
-  "@id": "http://localhost:6556/tuits/RITA",
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/RITA",
   "auido": "RITA",
   "created_at": "2015-02-05 10:05:59 UTC",
   "identity": [

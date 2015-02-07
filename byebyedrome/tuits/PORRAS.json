@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:6006/json-context.json",
-  "@id": "http://localhost:6006/tuits/PORRAS",
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/PORRAS",
   "auido": "PORRAS",
   "created_at": "2014-12-30 14:27:48 UTC",
   "identity": [
@@ -9,6 +9,6 @@
   "madrino": [
     "twitter/colgado"
   ],
-  "@context": "http://localhost:6006/json-context.json",
-  "@id": "http://localhost:6006/tuits/PORRAS"
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/PORRAS"
 }

@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:20002/json-context.json",
-  "@id": "http://localhost:20002/tuits/TAT",
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/TAT",
   "auido": "TAT",
   "created_at": "2015-02-01 22:34:08 UTC",
   "identity": [

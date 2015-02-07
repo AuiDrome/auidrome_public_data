@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:5005/json-context.json",
-  "@id": "http://localhost:5005/tuits/COLGADO_ES",
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/COLGADO_ES",
   "auido": "COLGADO_ES",
   "created_at": "2015-01-08 17:24:13 UTC",
   "identity": [

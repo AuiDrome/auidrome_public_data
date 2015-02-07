@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:5005/json-context.json",
-  "@id": "http://localhost:5005/tuits/BERGANTIÑOS",
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/BERGANTIÑOS",
   "auido": "BERGANTIÑOS",
   "created_at": "2015-01-23 16:04:56 UTC",
   "identity": [

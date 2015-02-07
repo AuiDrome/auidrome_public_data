@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:6556/json-context.json",
-  "@id": "http://localhost:6556/tuits/MURCIANO",
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/MURCIANO",
   "auido": "MURCIANO",
   "created_at": "2015-01-01 14:21:13 UTC",
   "identity": [

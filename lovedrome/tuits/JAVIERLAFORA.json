@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:6556/json-context.json",
-  "@id": "http://localhost:6556/tuits/JAVIERLAFORA",
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/JAVIERLAFORA",
   "auido": "JAVIERLAFORA",
   "created_at": "2015-01-30 16:13:48 UTC",
   "identity": [

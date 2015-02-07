@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:8888/json-context.json",
-  "@id": "http://localhost:8888/tuits/BRAVE",
+  "@context": "http://otaony.com:8888/json-context.json",
+  "@id": "http://otaony.com:8888/tuits/BRAVE",
   "auido": "BRAVE",
   "created_at": "2015-01-22 09:43:31 UTC",
   "identity": [

@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:6556/json-context.json",
-  "@id": "http://localhost:6556/tuits/EMILYSTOLFO",
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/EMILYSTOLFO",
   "auido": "EMILYSTOLFO",
   "created_at": "2015-01-13 08:42:35 UTC",
   "identity": [

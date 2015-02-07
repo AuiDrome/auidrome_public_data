@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:5005/json-context.json",
-  "@id": "http://localhost:5005/tuits/CHEMA",
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/CHEMA",
   "auido": "CHEMA",
   "created_at": "2015-01-13 16:54:49 UTC",
   "identity": [

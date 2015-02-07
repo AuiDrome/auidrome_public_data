@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:6556/json-context.json",
-  "@id": "http://localhost:6556/tuits/GILESBOWKETT",
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/GILESBOWKETT",
   "auido": "GILESBOWKETT",
   "created_at": "2015-01-07 17:20:54 UTC",
   "identity": [

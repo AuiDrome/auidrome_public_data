@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:5005/json-context.json",
-  "@id": "http://localhost:5005/tuits/SANDRAMUNUERA",
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/SANDRAMUNUERA",
   "auido": "SANDRAMUNUERA",
   "created_at": "2015-02-02 14:35:45 UTC",
   "identity": [

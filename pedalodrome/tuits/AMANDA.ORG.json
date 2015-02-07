@@ -1,6 +1,6 @@
 {
-  "@context": "http://localhost:5005/json-context.json",
-  "@id": "http://localhost:5005/tuits/AMANDA.ORG",
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/AMANDA.ORG",
   "auido": "AMANDA.ORG",
   "created_at": "2014-12-14 22:35:38 UTC",
   "identity": [
