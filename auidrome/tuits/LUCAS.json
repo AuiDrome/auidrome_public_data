@@ -10,5 +10,6 @@
 
   ],
   "@context": "http://otaony.com:3003/json-context.json",
-  "@id": "http://otaony.com:3003/tuits/LUCAS"
+  "@id": "http://otaony.com:3003/tuits/LUCAS",
+  "padre": "IVÁN"
 }

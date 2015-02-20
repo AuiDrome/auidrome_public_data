@@ -9,5 +9,8 @@
   "madrino": [
     "twitter/colgado"
   ],
-  "compañero": "ALBERTOSÁNCHEZ"
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/DIEGODUQUE",
+  "compañero": "ALBERTOSÁNCHEZ",
+  "evento": "HACKATÓN INTERNACIONAL DATOS ABIERTOS"
 }

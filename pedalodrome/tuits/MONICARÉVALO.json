@@ -9,5 +9,8 @@
   "madrino": [
     "twitter/colgado"
   ],
-  "project": "GTM-RAILS"
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/MONICARÉVALO",
+  "project": "GTM-RAILS",
+  "dep.": "MÉTRICAS"
 }

@@ -1,1 +1,12 @@
-{"created_at":"2015-01-22 21:21:01 UTC","auido":"ALEXLEÓN","identities":[],"madrinos":["colgado"]}
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/ALEXLEÓN",
+  "auido": "ALEXLEÓN",
+  "created_at": "2014-12-14 22:46:30 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ]
+}

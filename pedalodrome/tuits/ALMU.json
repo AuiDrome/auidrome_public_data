@@ -9,5 +9,8 @@
   "madrino": [
 
   ],
-  "twitter": "@almu2584"
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/ALMU",
+  "twitter": "@almu2584",
+  "compañero": "DAVIDGONZÁLEZ"
 }

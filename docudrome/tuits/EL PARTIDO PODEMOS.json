@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/EL PARTIDO PODEMOS",
+  "auido": "EL PARTIDO PODEMOS",
+  "created_at": "2015-02-16 19:21:57 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/EL PARTIDO PODEMOS",
+  "autor": "LUIS",
+  "artículo": "http://www.reddit.com/r/podemos/comments/2n2muf/el_partido_podemos/"
+}

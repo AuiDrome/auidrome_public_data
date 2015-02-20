@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/OBIE",
+  "auido": "OBIE",
+  "created_at": "2015-02-18 09:06:21 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/OBIE",
+  "proyecto": "ANDELA",
+  "web": "obiefernandez.com"
+}

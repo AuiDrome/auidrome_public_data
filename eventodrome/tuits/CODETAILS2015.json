@@ -7,11 +7,13 @@
 
   ],
   "madrino": [
-    "twitter/colgado",
-    "twitter/colgado_es"
+    "twitter/colgado"
   ],
+  "@context": "http://otaony.com:30003/json-context.json",
+  "@id": "http://otaony.com:30003/tuits/CODETAILS2015",
   "codetail": [
     "JS UNIT TESTING ON RAILS",
-    "DROMADICTION"
+    "DROMADICTION",
+    "REFACTORIZACIONES INDOLORAS"
   ]
 }

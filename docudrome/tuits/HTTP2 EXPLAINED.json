@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/HTTP2 EXPLAINED",
+  "auido": "HTTP2 EXPLAINED",
+  "created_at": "2015-02-19 06:46:42 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/HTTP2 EXPLAINED",
+  "autor": "DANIELSTENBERG",
+  "url": "http://daniel.haxx.se/http2/",
+  "pdf": "http://daniel.haxx.se/http2/http2-v1.10.pdf"
+}

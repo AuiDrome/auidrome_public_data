@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/SYROPIA",
+  "auido": "SYROPIA",
+  "created_at": "2015-02-09 09:25:45 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/SYROPIA",
+  "web": "SYROPIA.NET",
+  "proyecto": "ASTRAL"
+}

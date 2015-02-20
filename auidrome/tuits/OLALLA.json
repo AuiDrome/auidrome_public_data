@@ -10,5 +10,7 @@
     "twitter/colgado"
   ],
   "@context": "http://otaony.com:3003/json-context.json",
-  "@id": "http://otaony.com:3003/tuits/OLALLA"
+  "@id": "http://otaony.com:3003/tuits/OLALLA",
+  "hermana": "IRIA",
+  "foto": "http://instagram.com/p/x8_y0tomJy"
 }

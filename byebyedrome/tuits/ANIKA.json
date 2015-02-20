@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/ANIKA",
+  "auido": "ANIKA",
+  "created_at": "2015-02-20 09:06:07 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/ANIKA",
+  "twitter": "@ANIKA",
+  "web": "ananunez.es"
+}

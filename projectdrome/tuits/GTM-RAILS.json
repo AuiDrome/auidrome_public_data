@@ -4,11 +4,11 @@
   "auido": "GTM-RAILS",
   "created_at": "2015-01-26 09:37:24 UTC",
   "identity": [
-
-  ],
-  "madrino": [
     "twitter/colgado"
   ],
+  "madrino": [
+
+  ],
   "web": "https://github.com/nando/google-tag-manager-rails",
-  "colabora": "MONICARÉVALO"
+  "participa": "MONICARÉVALO"
 }

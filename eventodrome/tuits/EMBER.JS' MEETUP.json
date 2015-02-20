@@ -7,7 +7,10 @@
 
   ],
   "madrino": [
-    "twitter/colgado_es"
+    "twitter/colgado"
   ],
-  "web": "meetup.com/Ember-js-Madrid/"
+  "@context": "http://otaony.com:30003/json-context.json",
+  "@id": "http://otaony.com:30003/tuits/EMBER.JS' MEETUP",
+  "web": "meetup.com/Ember-js-Madrid",
+  "znks": "http://lacoctuitera.es/updates/54e513c1135f4d000300027e"
 }

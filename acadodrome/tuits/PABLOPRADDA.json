@@ -7,7 +7,8 @@
 
   ],
   "madrino": [
-    "twitter/colgado_es"
+    "twitter/colgado_es",
+    "twitter/colgado"
   ],
   "@context": "http://otaony.com:4004/json-context.json",
   "@id": "http://otaony.com:4004/tuits/PABLOPRADDA",

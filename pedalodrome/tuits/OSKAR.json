@@ -8,5 +8,8 @@
   ],
   "madrino": [
     "twitter/colgado_es"
-  ]
+  ],
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/OSKAR",
+  "5005": ""
 }

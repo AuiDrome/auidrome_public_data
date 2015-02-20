@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/CARLOS",
+  "auido": "CARLOS",
+  "created_at": "2015-02-09 14:57:17 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "twitter": "@THEISTIAN"
+}

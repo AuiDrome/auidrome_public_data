@@ -11,5 +11,8 @@
   ],
   "@context": "http://otaony.com:3003/json-context.json",
   "@id": "http://otaony.com:3003/tuits/IRIA",
-  "thought": "http://lacoctuitera.es/updates/54bab68d7c0a5a0003000321"
+  "thought": "http://lacoctuitera.es/updates/54bab68d7c0a5a0003000321",
+  "hermana": [
+    "OLALLA"
+  ]
 }

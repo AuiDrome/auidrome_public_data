@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/ASTRAL",
+  "auido": "ASTRAL",
+  "created_at": "2015-02-09 11:19:35 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/ASTRAL",
+  "padre": "SYROPIA",
+  "web": "ASTRALAPP.COM",
+  "vía": "CARLOS",
+  "descripción": "ORGANIZA REPOS FAVORITOS EN GITHUB"
+}

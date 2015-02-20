@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/EMOJI ONE",
+  "auido": "EMOJI ONE",
+  "created_at": "2015-02-20 08:31:34 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/EMOJI ONE",
+  "web": "EmojiOne.com",
+  "codes": "emoji.codes",
+  "libro": "http://www.EmojiDick.com/"
+}

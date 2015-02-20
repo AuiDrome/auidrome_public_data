@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/REFACTORIZACIONES INDOLORAS",
+  "auido": "REFACTORIZACIONES INDOLORAS",
+  "created_at": "2015-02-17 16:09:42 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/REFACTORIZACIONES INDOLORAS",
+  "evento": "CODETAILS2015",
+  "autor": "FREDDY",
+  "slides": "https://drive.google.com/a/the-cocktail.com/file/d/0B8mXIRmczoynLUZfT1dxUTU5bms/view"
+}

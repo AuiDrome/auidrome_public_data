@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/CARIDAD",
+  "auido": "CARIDAD",
+  "created_at": "2015-02-17 16:22:17 UTC",
+  "identity": [
+    "twitter/bizarragirl"
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/CARIDAD",
+  "dep.": "Marketing",
+  "fanpage": "https://www.facebook.com/sidebandtheband"
+}

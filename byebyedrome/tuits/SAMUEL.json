@@ -13,5 +13,6 @@
   ],
   "@context": "http://otaony.com:6006/json-context.json",
   "@id": "http://otaony.com:6006/tuits/SAMUEL",
-  "linkedin": "es.linkedin.com/in/samuelnavas"
+  "linkedin": "es.linkedin.com/in/samuelnavas",
+  "github": "samuelnp"
 }

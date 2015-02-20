@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/CHARALAMPOSBRATSAS",
+  "auido": "CHARALAMPOSBRATSAS",
+  "created_at": "2015-02-19 12:07:48 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/CHARALAMPOSBRATSAS",
+  "nick": "HARRY",
+  "twitter": "BRATSAS"
+}
