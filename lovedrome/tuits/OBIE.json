@@ -9,8 +9,6 @@
   "madrino": [
 
   ],
-  "@context": "http://otaony.com:6556/json-context.json",
-  "@id": "http://otaony.com:6556/tuits/OBIE",
   "proyecto": "ANDELA",
   "web": "obiefernandez.com"
 }

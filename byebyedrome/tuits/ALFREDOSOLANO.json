@@ -1,0 +1,12 @@
+{
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/ALFREDOSOLANO",
+  "auido": "ALFREDOSOLANO",
+  "created_at": "2015-02-23 08:35:22 UTC",
+  "identity": [
+    "twitter/cantorrodista"
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ]
+}

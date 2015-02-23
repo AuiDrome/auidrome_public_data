@@ -9,8 +9,6 @@
   "madrino": [
     "twitter/colgado"
   ],
-  "@context": "http://otaony.com:10001/json-context.json",
-  "@id": "http://otaony.com:10001/tuits/POPULARITY-DRIVEN DEVELOPMENT",
   "post": "http://ferrante.pl/frontend/javascript/popularity-driven-development",
   "vía": "FREDDY"
 }

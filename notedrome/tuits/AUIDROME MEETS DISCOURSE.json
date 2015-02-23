@@ -9,7 +9,5 @@
   "madrino": [
 
   ],
-  "@context": "http://otaony.com:10003/json-context.json",
-  "@id": "http://otaony.com:10003/tuits/AUIDROME MEETS DISCOURSE",
   "monolog": "http://lacoctuitera.es/updates/54e6457fe52aed0003000a1c"
 }

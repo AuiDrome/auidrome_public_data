@@ -9,7 +9,5 @@
   ],
   "madrino": [
 
-  ],
-  "@context": "http://otaony.com:4004/json-context.json",
-  "@id": "http://otaony.com:4004/tuits/PDMX-20140304"
+  ]
 }

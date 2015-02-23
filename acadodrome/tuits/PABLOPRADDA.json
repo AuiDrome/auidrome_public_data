@@ -10,8 +10,6 @@
     "twitter/colgado_es",
     "twitter/colgado"
   ],
-  "@context": "http://otaony.com:4004/json-context.json",
-  "@id": "http://otaony.com:4004/tuits/PABLOPRADDA",
   "twitter": "pablopradda",
   "linkedin": "es.linkedin.com/pub/pablo-prada/23/4a3/783"
 }

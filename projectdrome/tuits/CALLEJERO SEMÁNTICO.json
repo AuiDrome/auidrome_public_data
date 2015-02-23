@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/CALLEJERO SEMÁNTICO",
+  "auido": "CALLEJERO SEMÁNTICO",
+  "created_at": "2015-02-22 08:12:48 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "pedalea": "MARÍA",
+  "hackatón": "HACKATÓN INTERNACIONAL DATOS ABIERTOS"
+}

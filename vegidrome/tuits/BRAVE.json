@@ -9,9 +9,7 @@
   "madrino": [
     "twitter/colgado"
   ],
-  "@context": "http://otaony.com:8888/json-context.json",
-  "@id": "http://otaony.com:8888/tuits/BRAVE",
-  "Conmigo": "http://lacoctuitera.es/updates/54bfbd47e1f5960003001908",
+  "Historia conmigo": "http://lacoctuitera.es/updates/54bfbd47e1f5960003001908",
   "photo": [
     "https://www.flickr.com/photos/thecocktail/16054673732/",
     "http://instagram.com/p/yHmoAjomF8",

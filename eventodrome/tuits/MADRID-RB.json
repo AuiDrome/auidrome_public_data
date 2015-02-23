@@ -9,8 +9,6 @@
   "madrino": [
     "twitter/colgado"
   ],
-  "@context": "http://otaony.com:30003/json-context.json",
-  "@id": "http://otaony.com:30003/tuits/MADRID-RB",
   "charla": [
     "EVENT YOUR LIFE WITH KAFKA",
     "HACKEANDO REDACCIONES CON RUBY",

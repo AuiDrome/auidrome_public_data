@@ -9,8 +9,6 @@
   "madrino": [
     "twitter/colgado"
   ],
-  "@context": "http://otaony.com:10001/json-context.json",
-  "@id": "http://otaony.com:10001/tuits/IDA DE OLLA",
   "post": "http://www.robertlanzabiocentrism.com/is-death-an-illusion-evidence-suggests-death-isnt-the-end/",
   "post2": "http://motherboard.vice.com/read/new-measurements-show-that-the-unrealest-part-of-quantum-physics-is-very-real",
   "vía": "FRANSMARTINS"

@@ -9,8 +9,6 @@
   "madrino": [
     "twitter/colgado"
   ],
-  "@context": "http://otaony.com:6556/json-context.json",
-  "@id": "http://otaony.com:6556/tuits/DAVIDCABO",
   "twitter": "@dcabo",
   "proyecto": "CIVIO",
   "charla": "HACKEANDO REDACCIONES CON RUBY"

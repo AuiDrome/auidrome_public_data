@@ -9,8 +9,6 @@
   "madrino": [
 
   ],
-  "@context": "http://otaony.com:20002/json-context.json",
-  "@id": "http://otaony.com:20002/tuits/MOZILLA ORGANIZATION",
   "web": "mozilla.org",
   "autor": "JAMIEZAWINSKI",
   "pedalea": "DANIELSTENBERG"

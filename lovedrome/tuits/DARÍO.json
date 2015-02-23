@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/DARÍO",
+  "auido": "DARÍO",
+  "created_at": "2015-02-22 00:03:04 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "proyecto": "AMBRELLA",
+  "foto": "https://instagram.com/p/zXB1EjomLK",
+  "hackatón": "HACKATÓN INTERNACIONAL DATOS ABIERTOS"
+}

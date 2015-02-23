@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/MARCELO",
+  "auido": "MARCELO",
+  "created_at": "2015-02-22 00:02:36 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "foto": "https://instagram.com/p/zXB1EjomLK",
+  "hackatón": "HACKATÓN INTERNACIONAL DATOS ABIERTOS"
+}

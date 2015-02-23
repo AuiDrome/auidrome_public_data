@@ -1,0 +1,20 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/SIGNWIKI.ORG",
+  "auido": "SIGNWIKI.ORG",
+  "created_at": "2015-02-22 08:31:57 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "web": "signwiki.org",
+  "evento": "HACKATÓN INTERNACIONAL DATOS ABIERTOS",
+  "tags": "FINALISTA",
+  "foto": [
+    "https://instagram.com/p/zZsVfComCh",
+    "https://instagram.com/p/yR_TKhomGF",
+    "https://instagram.com/p/vvNuyqomAV"
+  ]
+}

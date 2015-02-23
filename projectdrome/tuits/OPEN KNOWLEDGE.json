@@ -9,9 +9,12 @@
   "madrino": [
     "twitter/colgado"
   ],
-  "@context": "http://otaony.com:20002/json-context.json",
-  "@id": "http://otaony.com:20002/tuits/OPEN KNOWLEDGE",
   "site": "okfn.org",
   "españa": "http://okfn.es/",
-  "pedalea": "CHARALAMPOSBRATSAS"
+  "pedalea": [
+    "CHARALAMPOSBRATSAS",
+    "ALBERTOABELLA",
+    "RUFUSPOLLOCK"
+  ],
+  "organiza": "HACKATÓN INTERNACIONAL DATOS ABIERTOS"
 }

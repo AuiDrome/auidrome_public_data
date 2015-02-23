@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/AMBRELLA",
+  "auido": "AMBRELLA",
+  "created_at": "2015-02-22 00:04:43 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "pedalea": "DARÍO",
+  "tags": "MONEDASOCIAL"
+}

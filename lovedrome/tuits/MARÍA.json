@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/MARÍA",
+  "auido": "MARÍA",
+  "created_at": "2015-02-22 08:10:27 UTC",
+  "identity": [
+    "twitter/MariaPovedaV"
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "tags": "SEMÁNTICA PALOMARES",
+  "proyecto": "CALLEJERO SEMÁNTICO",
+  "email": "mpoveda@fi.upm.es",
+  "hackatón": "HACKATÓN INTERNACIONAL DATOS ABIERTOS"
+}

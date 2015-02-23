@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/ADOLFO",
+  "auido": "ADOLFO",
+  "created_at": "2015-02-21 11:19:32 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "foto": "http://instagram.com/p/zXChxMImL5/",
+  "hackatón": "HACKATÓN INTERNACIONAL DATOS ABIERTOS"
+}

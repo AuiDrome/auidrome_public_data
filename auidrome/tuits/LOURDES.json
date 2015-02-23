@@ -8,7 +8,5 @@
   ],
   "madrino": [
 
-  ],
-  "@context": "http://otaony.com:3003/json-context.json",
-  "@id": "http://otaony.com:3003/tuits/LOURDES"
+  ]
 }

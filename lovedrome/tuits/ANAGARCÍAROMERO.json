@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/ANAGARCÍAROMERO",
+  "auido": "ANAGARCÍAROMERO",
+  "created_at": "2015-02-22 11:30:36 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "tags": "POZUELO"
+}

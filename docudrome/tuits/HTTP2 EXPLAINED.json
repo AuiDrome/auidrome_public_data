@@ -9,8 +9,6 @@
   "madrino": [
 
   ],
-  "@context": "http://otaony.com:10001/json-context.json",
-  "@id": "http://otaony.com:10001/tuits/HTTP2 EXPLAINED",
   "autor": "DANIELSTENBERG",
   "url": "http://daniel.haxx.se/http2/",
   "pdf": "http://daniel.haxx.se/http2/http2-v1.10.pdf"

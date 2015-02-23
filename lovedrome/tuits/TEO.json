@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/TEO",
+  "auido": "TEO",
+  "created_at": "2015-02-22 17:18:23 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "tags": "POZUELO"
+}

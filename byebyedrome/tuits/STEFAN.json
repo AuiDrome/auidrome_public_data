@@ -9,7 +9,5 @@
   "madrino": [
     "twitter/colgado_es"
   ],
-  "@context": "http://otaony.com:6006/json-context.json",
-  "@id": "http://otaony.com:6006/tuits/STEFAN",
   "apellido": "NIKOLAEV"
 }

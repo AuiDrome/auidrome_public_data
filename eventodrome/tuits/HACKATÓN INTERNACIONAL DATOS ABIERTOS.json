@@ -9,8 +9,6 @@
   "madrino": [
     "twitter/colgado"
   ],
-  "@context": "http://otaony.com:30003/json-context.json",
-  "@id": "http://otaony.com:30003/tuits/HACKATÓN INTERNACIONAL DATOS ABIERTOS",
   "vía": "DIEGODUQUE",
   "web": [
     "hackaton.okfn.es"
@@ -18,5 +16,19 @@
   "anuncio": [
     "http://hackaton.okfn.es/2015/01/27/hackaton-internacional-datos-abiertos/"
   ],
-  "organiza": "OPEN KNOWLEDGE"
+  "organizador": "OPEN KNOWLEDGE",
+  "pedalea": [
+    "ADOLFO",
+    "OSCARCORCHO",
+    "MARÍA"
+  ],
+  "proyecto": [
+    "CALLEJERO SEMÁNTICO",
+    "TRANSPARENCIA MUNICIPAL",
+    "POBLACIÓN RECLUSA"
+  ],
+  "participa": [
+    "DARÍO",
+    "MARCELO"
+  ]
 }
