@@ -1,7 +1,7 @@
 {
   "@context": "http://otaony.com:20002/json-context.json",
-  "@id": "http://otaony.com:20002/tuits/SIGNWIKI.ORG",
-  "auido": "SIGNWIKI.ORG",
+  "@id": "http://otaony.com:20002/tuits/WIKISIGNS.ORG",
+  "auido": "WIKISIGNS.ORG",
   "created_at": "2015-02-22 08:31:57 UTC",
   "identity": [
 
