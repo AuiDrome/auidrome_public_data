@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/FLOW BASED PROGRAMMING",
+  "auido": "FLOW BASED PROGRAMMING",
+  "created_at": "2015-03-05 18:09:38 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "wikipedia": "http://en.wikipedia.org/wiki/Flow-based_programming",
+  "highlights": "http://lacoctuitera.es/updates/54f89b2b4845d200030005b8"
+}

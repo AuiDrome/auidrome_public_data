@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/VOTO DIGITAL",
+  "auido": "VOTO DIGITAL",
+  "created_at": "2015-02-28 18:10:10 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "debate en loomio": "https://www.loomio.org/d/TFqaDj1O"
+}

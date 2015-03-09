@@ -1,0 +1,29 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/TIRAR-CON-ESTILO",
+  "auido": "TIRAR-CON-ESTILO",
+  "created_at": "2015-03-04 11:04:44 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "email": "https://mail.google.com/mail/u/0/#sent/14bdef3991101afb",
+  "ruby": "https://github.com/the-cocktail/ruby-style-guide",
+  "php": "http://phpdevenezuela.github.io/php-the-right-way",
+  "rails": "https://github.com/the-cocktail/rails-style-guide",
+  "drupal": "https://www.drupal.org/coding-standards",
+  "airbnb": "https://github.com/airbnb/ruby",
+  "deportista": [
+    "SANTILLANA",
+    "NADAL",
+    "PAUGASOL",
+    "MARCMARQUEZ",
+    "FERNANDOALONSO",
+    "CRISTIAN",
+    "PEDROLGARCIAMORELLI",
+    "MANFREDRUHMER"
+  ],
+  "monólogo sobre and/or": "http://lacoctuitera.es/updates/54f75bdcae5f50000300043d"
+}

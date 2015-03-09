@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/LUISVILLA",
+  "auido": "LUISVILLA",
+  "created_at": "2015-03-06 08:19:33 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "web": "ALZADO.ORG",
+  "flickr": "MAGUISSO",
+  "twitter": "MAGUISSO"
+}

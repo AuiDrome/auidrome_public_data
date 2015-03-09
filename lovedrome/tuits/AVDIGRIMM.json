@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/AVDIGRIMM",
+  "auido": "AVDIGRIMM",
+  "created_at": "2015-03-02 19:34:19 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "screencast": "USING AND AND OR IN RUBY",
+  "web": "avdi.org",
+  "twitter": "@avdi"
+}

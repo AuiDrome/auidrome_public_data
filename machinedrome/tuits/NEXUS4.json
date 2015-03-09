@@ -4,9 +4,10 @@
   "auido": "NEXUS4",
   "created_at": "2015-01-24 22:20:26 UTC",
   "identity": [
-
+    "twitter/colgado"
   ],
   "madrino": [
     "twitter/colgado_es"
-  ]
+  ],
+  "tag": "Android"
 }

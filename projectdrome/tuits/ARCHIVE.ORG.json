@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/ARCHIVE.ORG",
+  "auido": "ARCHIVE.ORG",
+  "created_at": "2015-02-28 20:59:43 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "tahona": "https://archive.org/details/TAHONAKIDSFM",
+  "monobonobo": "https://archive.org/details/@monobonobo",
+  "colgado (vuelos)": "https://archive.org/details/@colgado"
+}

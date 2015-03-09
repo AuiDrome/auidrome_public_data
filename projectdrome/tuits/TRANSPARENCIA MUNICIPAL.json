@@ -7,9 +7,15 @@
 
   ],
   "madrino": [
-    "twitter/colgado_es"
+    "twitter/colgado"
   ],
-  "pedalea": "OSCARCORCHO",
+  "pedalea": [
+    "OSCARCORCHO",
+    "ALIOTH"
+  ],
   "hackatón": "HACKATÓN INTERNACIONAL DATOS ABIERTOS",
-  "proyecto relacionado": "http://transparenciadecuentaspublicas.es"
+  "proyecto relacionado": "http://transparenciadecuentaspublicas.es",
+  "pad": "https://pad.okfn.org/p/transparencia-real-oddmadrid",
+  "web": "http://comunidad.medialab-prado.es/es/proyectos/ndice-de-transparencia-de-ayuntamientos-una-perspectiva-ciudadana",
+  "open data census": "http://odcspain-citizen.herokuapp.com"
 }

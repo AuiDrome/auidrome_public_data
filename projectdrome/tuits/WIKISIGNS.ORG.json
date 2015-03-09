@@ -7,14 +7,16 @@
 
   ],
   "madrino": [
-    "twitter/colgado"
+    "twitter/colgado",
+    "twitter/colgado_es"
   ],
-  "web": "signwiki.org",
+  "web": "wikisigns.org",
   "evento": "HACKATÓN INTERNACIONAL DATOS ABIERTOS",
   "tags": "FINALISTA",
   "foto": [
     "https://instagram.com/p/zZsVfComCh",
     "https://instagram.com/p/yR_TKhomGF",
     "https://instagram.com/p/vvNuyqomAV"
-  ]
+  ],
+  "pedalea": "CARLOSMAYANS"
 }

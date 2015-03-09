@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/ASCII SMILEYS NAMES",
+  "auido": "ASCII SMILEYS NAMES",
+  "created_at": "2015-02-26 09:14:34 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "emoji one": "http://git.emojione.com/demos/ascii-smileys.html"
+}

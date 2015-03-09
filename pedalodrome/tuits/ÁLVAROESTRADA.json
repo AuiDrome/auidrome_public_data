@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/ÁLVAROESTRADA",
+  "auido": "ÁLVAROESTRADA",
+  "created_at": "2015-02-26 07:17:31 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "equipo": "UX"
+}

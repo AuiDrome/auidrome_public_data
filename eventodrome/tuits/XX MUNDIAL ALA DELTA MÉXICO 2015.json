@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:30003/json-context.json",
+  "@id": "http://otaony.com:30003/tuits/XX MUNDIAL ALA DELTA MÉXICO 2015",
+  "auido": "XX MUNDIAL ALA DELTA MÉXICO 2015",
+  "created_at": "2015-03-05 08:12:07 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "web": "faihgworldmex.com",
+  "monolog": "http://lacoctuitera.es/updates/54f957ad7be96700030008a4",
+  "participa": "PEDROLGARCIAMORELLI"
+}

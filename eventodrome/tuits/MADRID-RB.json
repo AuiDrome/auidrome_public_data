@@ -14,7 +14,9 @@
     "HACKEANDO REDACCIONES CON RUBY",
     "DEUDA TÉCNICA",
     "HACKING YOUR OWN BANK ACCOUNT",
-    "CRECIMIENTO Y ESCALABILIDAD"
+    "CRECIMIENTO Y ESCALABILIDAD",
+    "TDD COMO PROBLEMA"
   ],
-  "wiki": "https://github.com/madridrb/madridrb.github.io/wiki"
+  "wiki": "https://github.com/madridrb/madridrb.github.io/wiki",
+  "web": "MadridRB.com"
 }

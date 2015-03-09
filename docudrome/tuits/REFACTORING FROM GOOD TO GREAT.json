@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/REFACTORING FROM GOOD TO GREAT",
+  "auido": "REFACTORING FROM GOOD TO GREAT",
+  "created_at": "2015-03-02 11:57:40 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "talk": "https://www.youtube.com/watch?v=DC-pQPq0acs",
+  "vía": [
+    "ELTERCERO",
+    "MORT"
+  ]
+}

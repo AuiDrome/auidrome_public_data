@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:8888/json-context.json",
+  "@id": "http://otaony.com:8888/tuits/DIZZY",
+  "auido": "DIZZY",
+  "created_at": "2015-02-28 17:20:52 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "proyecto": "POZUELADA",
+  "detrás de la tele...": "¡¡¡Es más alta que yo!!!"
+}

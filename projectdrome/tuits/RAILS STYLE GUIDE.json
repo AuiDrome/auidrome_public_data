@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/RAILS STYLE GUIDE",
+  "auido": "RAILS STYLE GUIDE",
+  "created_at": "2015-03-02 11:17:12 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "author": "BOZHIDAR",
+  "github": "https://github.com/bbatsov/rails-style-guide"
+}

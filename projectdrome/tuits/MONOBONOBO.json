@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/MONOBONOBO",
+  "auido": "MONOBONOBO",
+  "created_at": "2015-02-28 21:13:30 UTC",
+  "identity": [
+    "twitter/colgado"
+  ],
+  "madrino": [
+
+  ],
+  "mono frotado (17 de marzo)": "https://archive.org/details/20001703MONOFROTADO",
+  "mono soplado (7 de abril)": "https://archive.org/details/20000407MONOSOPLADOCaraB",
+  "mono periódico (5 de mayo)": "https://archive.org/details/20000505MONOPERIODICOCaraA"
+}

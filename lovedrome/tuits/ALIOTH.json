@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/ALIOTH",
+  "auido": "ALIOTH",
+  "created_at": "2015-02-24 08:08:10 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "proyecto": "TRANSPARENCIA MUNICIPAL"
+}

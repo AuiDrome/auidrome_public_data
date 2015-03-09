@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/LARASOLER",
+  "auido": "LARASOLER",
+  "created_at": "2015-03-02 14:32:24 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "equipo": "MARKETING",
+  "web": "about.me/lsoler",
+  "twitter": "@larasolerm",
+  "recomienda": "SLOW MOVEMENT"
+}

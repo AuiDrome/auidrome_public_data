@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/ELTERCERO",
+  "auido": "ELTERCERO",
+  "created_at": "2015-03-03 06:37:14 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "twitter": "@eltercero",
+  "github": "ELTERCERO",
+  "nombre": "Víctor Martín"
+}

@@ -10,5 +10,9 @@
     "twitter/colgado_es"
   ],
   "pedalea": "DARÍO",
-  "tags": "MONEDASOCIAL"
+  "tags": [
+    "MONEDASOCIAL",
+    "MONEDAVIRTUAL"
+  ],
+  "web": "AMBRELLA.ES"
 }

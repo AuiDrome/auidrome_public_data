@@ -1,0 +1,26 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/POZUELADA",
+  "auido": "POZUELADA",
+  "created_at": "2015-02-28 11:46:12 UTC",
+  "identity": [
+    "twitter/colgado"
+  ],
+  "madrino": [
+
+  ],
+  "pedalea": [
+    "SARA",
+    "NANDO"
+  ],
+  "becaria": [
+    "OLALLA",
+    "IRIA"
+  ],
+  "animal": [
+    "LUA",
+    "PLECOS"
+  ],
+  "tree": "BRAVE",
+  "plant": "DIZZY"
+}

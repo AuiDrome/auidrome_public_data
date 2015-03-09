@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:40004/json-context.json",
+  "@id": "http://otaony.com:40004/tuits/CSG",
+  "auido": "CSG",
+  "created_at": "2015-03-02 03:07:15 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "web": "volunteer.cs.und.edu",
+  "siglas de": "Citizen Science Grid",
+  "nodo": "DELL VOSTRO 2013"
+}

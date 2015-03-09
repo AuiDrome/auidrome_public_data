@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/PACOLARA",
+  "auido": "PACOLARA",
+  "created_at": "2015-02-26 07:17:56 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "dribbble": "https://dribbble.com/laba",
+  "bed intruder song!!!": "https://www.youtube.com/watch?v=hMtZfW2z9dw",
+  "equipo": "UX"
+}
