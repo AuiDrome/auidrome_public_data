@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/RENDIMIENTO AIRBNB & TRANSLATIONS",
+  "auido": "RENDIMIENTO AIRBNB & TRANSLATIONS",
+  "created_at": "2015-03-12 20:28:52 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "aparición en ruby5": "https://ruby5.codeschool.com/episodes/467-episode-431-january-10th-2014/stories/3774-hammerspace",
+  "hammerspace": "http://nerds.airbnb.com/hammerspace-persistent-concurrent-off-heap-storage",
+  "loomio uses": "http://transifex.com"
+}

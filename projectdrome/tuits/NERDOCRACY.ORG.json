@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/NERDOCRACY.ORG",
+  "auido": "NERDOCRACY.ORG",
+  "created_at": "2015-03-12 11:39:59 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "post": "The Yin&Yang of AI",
+  "pedalea": "STEFAN"
+}

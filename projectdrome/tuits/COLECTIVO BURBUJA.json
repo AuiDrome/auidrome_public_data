@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/COLECTIVO BURBUJA",
+  "auido": "COLECTIVO BURBUJA",
+  "created_at": "2015-03-12 10:47:10 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "web": "colectivoburbuja.org"
+}

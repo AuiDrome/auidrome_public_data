@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/MARACAIBO Y LOS BUITRES",
+  "auido": "MARACAIBO Y LOS BUITRES",
+  "created_at": "2015-03-09 22:29:31 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "extracto de venas abiertas...": "http://laclase.info/teoria/el-lago-de-maracaibo-en-el-buche-de-los-grandes-buitres-de-metal",
+  "autor": "GALEANO",
+  "año": "1971"
+}

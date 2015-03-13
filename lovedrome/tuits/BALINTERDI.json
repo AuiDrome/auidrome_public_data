@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/BALINTERDI",
+  "auido": "BALINTERDI",
+  "created_at": "2015-03-11 14:23:46 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "web": "balinterdi.com",
+  "libro": "http://balinterdi.com/rock-and-roll-with-emberjs"
+}

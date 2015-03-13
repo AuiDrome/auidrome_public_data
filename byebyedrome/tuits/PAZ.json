@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/PAZ",
+  "auido": "PAZ",
+  "created_at": "2015-03-11 10:52:40 UTC",
+  "identity": [
+    "twitter/vegapaz10"
+  ],
+  "madrino": [
+
+  ],
+  "post": "http://www.elcajondegatsby.com/que-merezca-la-pena"
+}

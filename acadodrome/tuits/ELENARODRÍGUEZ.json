@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:4004/json-context.json",
+  "@id": "http://otaony.com:4004/tuits/ELENARODRÍGUEZ",
+  "auido": "ELENARODRÍGUEZ",
+  "created_at": "2015-03-09 16:53:52 UTC",
+  "identity": [
+    "twitter/helenn223"
+  ],
+  "madrino": [
+
+  ],
+  "tumblr": "http://viviendoconprisas.tumblr.com"
+}

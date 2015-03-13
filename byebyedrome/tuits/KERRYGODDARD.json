@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/KERRYGODDARD",
+  "auido": "KERRYGODDARD",
+  "created_at": "2015-03-12 10:24:18 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "equipo": "REAL MADRID",
+  "audio": "oooh_kerry/oooh_kerry",
+  "twitter": "@misskerrymarie"
+}
