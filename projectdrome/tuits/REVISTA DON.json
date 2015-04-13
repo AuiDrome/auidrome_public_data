@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/REVISTA DON",
+  "auido": "REVISTA DON",
+  "created_at": "2015-03-25 16:14:42 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "web": "revistaDON.com",
+  "entrevista": "http://www.revistadon.com/6535/better-call-saul-hablamos-con-el-director-y-el-guionista-vince-gilligan-peter-gould",
+  "pedalea": "JAVIMOYA"
+}

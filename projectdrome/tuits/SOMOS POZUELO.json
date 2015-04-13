@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/SOMOS POZUELO",
+  "auido": "SOMOS POZUELO",
+  "created_at": "2015-03-17 07:53:07 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "candidaturas votadas": "https://sisepuedepozuelo.wordpress.com/candidaturas/",
+  "presentación somos pozuelo": "https://www.youtube.com/watch?v=KGe0fa4tAJ4",
+  "resultados lista definitiva": "https://sisepuedepozuelo.wordpress.com/resultados-lista-definitiva",
+  "youtube": "1xDeepbseHw"
+}

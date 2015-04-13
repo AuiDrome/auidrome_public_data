@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/PRIORITY-SETTING",
+  "auido": "PRIORITY-SETTING",
+  "created_at": "2015-03-20 09:14:41 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "monolog": "http://lacoctuitera.es/updates/550fb85cf02328000300148f"
+}

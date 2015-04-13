@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:3333/json-context.json",
+  "@id": "http://otaony.com:3333/tuits/SUMIE",
+  "auido": "SUMIE",
+  "created_at": "2015-04-03 17:16:57 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "proyecto": "LIVIEGO"
+}

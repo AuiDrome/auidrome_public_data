@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:4004/json-context.json",
+  "@id": "http://otaony.com:4004/tuits/VICTORIACARMEN",
+  "auido": "VICTORIACARMEN",
+  "created_at": "2015-03-23 15:02:05 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "email": "victoria.pesaturo@the-cocktail.com"
+}

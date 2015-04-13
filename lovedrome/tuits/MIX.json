@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/MIX",
+  "auido": "MIX",
+  "created_at": "2015-03-22 09:03:22 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "proyecto": "LOOMIO",
+  "at the loomio translation group": "https://www.loomio.org/d/h9bU4IZl/introduce-yourself#comment-91160"
+}

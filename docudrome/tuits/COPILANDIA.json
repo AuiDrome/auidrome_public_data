@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/COPILANDIA",
+  "auido": "COPILANDIA",
+  "created_at": "2015-03-19 08:34:56 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "youtube": "uHK1s25DqCI",
+  "ponente": "DAVIDBRAVO"
+}

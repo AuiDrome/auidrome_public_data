@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/FRANT",
+  "auido": "FRANT",
+  "created_at": "2015-03-25 10:32:40 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "from": "PETRER"
+}

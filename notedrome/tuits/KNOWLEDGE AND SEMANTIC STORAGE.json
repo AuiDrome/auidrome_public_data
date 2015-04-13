@@ -4,13 +4,22 @@
   "auido": "KNOWLEDGE AND SEMANTIC STORAGE",
   "created_at": "2015-02-05 18:46:36 UTC",
   "identity": [
-
+    "twitter/colgado"
   ],
   "madrino": [
     "twitter/colgado"
   ],
-  "to know": "https://archive.org/details/WHATDOESITMEANTOKNOW",
+  "audio": [
+    "WHATDOESITMEANTOKNOW",
+    "ONLYTWENTYFOUR"
+  ],
   "featuring": "FXNOBLE",
-  "correo de presentación del proyecto a alioth, maría, oscar y pepe": "https://mail.google.com/mail/u/0/#inbox/14bb6684f53c012d",
-  "sócrates inventó el \"yes but\" :)": "https://archive.org/details/WECANPUTSOMEBLACKINK"
+  "correo de presentación del proyecto a alioth, maría, oscar, pepe...": "https://mail.google.com/mail/u/0/#inbox/14bb6684f53c012d",
+  "24 silogismos": "1º.- Sócrates es un hombre. Todos los hombres son mortales. Sócrates es mortal.",
+  "10 description categories": [
+    "SUBSTANCE",
+    "QUANTITY",
+    "QUALITY"
+  ],
+  "thought": "FALACIAS LÓGICAS"
 }

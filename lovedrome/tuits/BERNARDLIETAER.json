@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/BERNARDLIETAER",
+  "auido": "BERNARDLIETAER",
+  "created_at": "2015-03-12 19:53:29 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "recommends": "MONEDAS COMPLEMENTARIAS",
+  "wikipedia": "en.wikipedia.org/wiki/Bernard_Lietaer"
+}

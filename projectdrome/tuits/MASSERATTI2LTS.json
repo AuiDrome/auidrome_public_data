@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/MASSERATTI2LTS",
+  "auido": "MASSERATTI2LTS",
+  "created_at": "2015-03-17 06:39:13 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "soundcloud": "masseratti2lts",
+  "caracas": "VENEZUELA"
+}

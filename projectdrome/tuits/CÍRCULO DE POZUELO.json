@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/CÍRCULO DE POZUELO",
+  "auido": "CÍRCULO DE POZUELO",
+  "created_at": "2015-04-12 08:19:57 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "pedalea": [
+    "AGUSTÍNDELACASA",
+    "LUISFER"
+  ]
+}

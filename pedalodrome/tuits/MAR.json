@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/MAR",
+  "auido": "MAR",
+  "created_at": "2015-04-01 14:26:49 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "equipo": "MÉTRICAS"
+}

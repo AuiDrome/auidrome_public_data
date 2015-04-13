@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/NUNCA MÁIS",
+  "auido": "NUNCA MÁIS",
+  "created_at": "2015-04-12 10:17:09 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "mi nunca máis personal": "http://lacoctuitera.es/updates/552a44bf3426a4000300162d",
+  "respuesta de iván": "https://twitter.com/elDesbanconb/status/586435978413256705"
+}

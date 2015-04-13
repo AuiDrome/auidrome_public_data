@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/UWEGRUENEWALDAKASANKINDER",
+  "auido": "UWEGRUENEWALDAKASANKINDER",
+  "created_at": "2015-03-24 18:52:01 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "el país": "http://elpais.com/elpais/2015/03/23/estilo/1427137202_025763.html"
+}

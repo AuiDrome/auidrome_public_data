@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/BUENHOMBRE",
+  "auido": "BUENHOMBRE",
+  "created_at": "2015-03-21 11:02:25 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "compañero": "JUANLEAL",
+  "aka": "NACHO",
+  "proyecto": "ILIOS"
+}

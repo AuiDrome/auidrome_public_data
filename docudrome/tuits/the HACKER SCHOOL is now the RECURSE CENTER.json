@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/the HACKER SCHOOL is now the RECURSE CENTER",
+  "auido": "the HACKER SCHOOL is now the RECURSE CENTER",
+  "created_at": "2015-03-30 08:51:32 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "autor": "NickBergson-Shilcock",
+  "link": "https://www.recurse.com/blog/77-hacker-school-is-now-the-recurse-center"
+}

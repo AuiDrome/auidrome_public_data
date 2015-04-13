@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/WillHolland",
+  "auido": "WillHolland",
+  "created_at": "2015-04-01 15:21:45 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "aka": "Quantic"
+}

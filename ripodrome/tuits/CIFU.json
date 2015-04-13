@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:8008/json-context.json",
+  "@id": "http://otaony.com:8008/tuits/CIFU",
+  "auido": "CIFU",
+  "created_at": "2015-03-17 20:31:38 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "programa": "A TODO JAZZ",
+  "nombre completo": "Juan Claudio Cifuentes"
+}

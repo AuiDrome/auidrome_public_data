@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/JAVIMOYA",
+  "auido": "JAVIMOYA",
+  "created_at": "2015-03-25 15:43:22 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "web": "revistadon.com",
+  "un grande": "(: o dos si son pequeños :)",
+  "batería en": "MITTENS",
+  "here comes the drummer": "http://www.herecomesthedrummer.com/baterista/Javier_Moya_jbeechoo",
+  "proyecto": "REVISTA DON",
+  "email de despedida": "https://mail.google.com/mail/u/0/#inbox/14c5181c6e62a743",
+  "productora": "The Tab Gang"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/LUISFER",
+  "auido": "LUISFER",
+  "created_at": "2015-04-12 08:23:05 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "recomienda peli": [
+    "al sur de la frontera",
+    "porqué la revolución no será televisada"
+  ],
+  "twitter": "luisferperez77",
+  "Canal en YouTube": "https://www.youtube.com/user/luisferperez77"
+}

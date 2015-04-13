@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:30003/json-context.json",
+  "@id": "http://otaony.com:30003/tuits/OPEN SOURCE OPEN SOCIETY",
+  "auido": "OPEN SOURCE OPEN SOCIETY",
+  "created_at": "2015-03-26 07:24:42 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "web": [
+    "opensourceopensociety.com",
+    "OSOS.nz"
+  ],
+  "proyecto relacionado": "TRANSPARENCIA MUNICIPAL"
+}

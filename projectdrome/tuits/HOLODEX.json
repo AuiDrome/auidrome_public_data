@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/HOLODEX",
+  "auido": "HOLODEX",
+  "created_at": "2015-04-08 09:13:29 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "branches": "https://github.com/holodex/app/branches"
+}

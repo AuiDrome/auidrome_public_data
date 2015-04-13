@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/PREGUNTA EN RUEDA DE MASAS A PABLO IGLESIAS",
+  "auido": "PREGUNTA EN RUEDA DE MASAS A PABLO IGLESIAS",
+  "created_at": "2015-03-23 10:10:51 UTC",
+  "identity": [
+    "twitter/colgado"
+  ],
+  "madrino": [
+
+  ],
+  "reddit": "http://www.reddit.com/r/podemos/comments/2c14wp/soy_pablo_iglesias_turri%C3%B3n_y_puedes_preguntarme/cjavhks"
+}

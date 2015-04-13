@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/HEATHERMARSH",
+  "auido": "HEATHERMARSH",
+  "created_at": "2015-03-25 07:38:51 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "interview by rich. d. bartlett": "http://blog.loomio.org/2014/04/15/heather-marsh-government-as-mass-collaboration/"
+}

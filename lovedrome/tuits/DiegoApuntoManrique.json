@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/DiegoApuntoManrique",
+  "auido": "DiegoApuntoManrique",
+  "created_at": "2015-04-01 14:35:26 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "proyecto": "EL MAPA SECRETO",
+  "wikipedia": "es.wikipedia.org/wiki/Diego_Alfredo_Manrique"
+}

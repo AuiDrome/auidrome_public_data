@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/DAVIDBRAVO",
+  "auido": "DAVIDBRAVO",
+  "created_at": "2015-03-19 08:32:35 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "talk": [
+    "COPILANDIA",
+    "P2P Y PROPIEDAD INTELECTUAL"
+  ],
+  "twitter": "@dbravo"
+}

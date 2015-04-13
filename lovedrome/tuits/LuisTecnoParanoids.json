@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/LuisTecnoParanoids",
+  "auido": "LuisTecnoParanoids",
+  "created_at": "2015-04-11 19:07:55 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "email": "https://mail.google.com/mail/u/0/h/yz5ujr73h877/?&th=14ca2dfde8df60ff&v=c",
+  "proyecto": "RadiosLibres.info"
+}

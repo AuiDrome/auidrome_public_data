@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/JULIANSINIESTRO",
+  "auido": "JULIANSINIESTRO",
+  "created_at": "2015-03-14 11:45:29 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "cachaverosódico": "https://twitter.com/colgado/status/576701113040285696",
+  "twitter": "@JULIANSINIESTRO",
+  "el consejero de cultura": "http://lacoctuitera.es/updates/55042844bd2c250003000a00",
+  "foto y artículo": "http://lafonoteca.net/grupos/siniestro-total"
+}

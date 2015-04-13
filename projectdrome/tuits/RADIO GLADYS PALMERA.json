@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/RADIO GLADYS PALMERA",
+  "auido": "RADIO GLADYS PALMERA",
+  "created_at": "2015-04-01 14:04:26 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "web": "GladysPalmera.com",
+  "proyecto": "EL MAPA SECRETO"
+}

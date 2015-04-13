@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/LILATRETIKOV",
+  "auido": "LILATRETIKOV",
+  "created_at": "2015-03-22 09:40:11 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "email tras donación": "https://mail.google.com/mail/u/0/#inbox/14c38356b2593d9a",
+  "proyecto": "WIKIMEDIA"
+}

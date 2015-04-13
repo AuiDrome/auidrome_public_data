@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:8008/json-context.json",
+  "@id": "http://otaony.com:8008/tuits/MANOLÍN",
+  "auido": "MANOLÍN",
+  "created_at": "2015-04-06 16:07:48 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "recuerdo en Carne Cruda": "http://carnecruda.es/2015/03/31/radios-libres-del-mundo-unios",
+  "gran hito": "primera emisora en cuba",
+  "from": "ASTURIES"
+}

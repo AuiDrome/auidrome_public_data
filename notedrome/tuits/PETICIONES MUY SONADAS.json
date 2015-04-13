@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/PETICIONES MUY SONADAS",
+  "auido": "PETICIONES MUY SONADAS",
+  "created_at": "2015-03-16 19:09:53 UTC",
+  "identity": [
+    "twitter/colgado"
+  ],
+  "madrino": [
+
+  ],
+  "a facturar febrero": "https://mail.google.com/mail/u/0/#inbox/14c135528703ab2c",
+  "oooh karry": "http://otaony.com:6006/tuits/KERRYGODDARD",
+  "featuring": [
+    "MACLA",
+    "NANDO"
+  ]
+}

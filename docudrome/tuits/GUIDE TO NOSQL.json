@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/GUIDE TO NOSQL",
+  "auido": "GUIDE TO NOSQL",
+  "created_at": "2015-03-18 09:42:29 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "vía": "CARLOSSÁNCHEZ",
+  "post": "http://blog.nahurst.com/visual-guide-to-nosql-systems"
+}

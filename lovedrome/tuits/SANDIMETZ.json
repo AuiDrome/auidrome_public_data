@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/SANDIMETZ",
+  "auido": "SANDIMETZ",
+  "created_at": "2015-04-12 16:30:48 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "libro": "POODR",
+  "web": "SandiMetz.com"
+}

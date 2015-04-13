@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/Cradle to Cradle: Remaking the Way We Make Things",
+  "auido": "Cradle to Cradle: Remaking the Way We Make Things",
+  "created_at": "2015-03-27 12:23:31 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "inglés": "http://www.amazon.es/Cradle-Remaking-Braungart-McDonough-Paperback/dp/B00M0KHNRQ/ref=sr_1_3?ie=UTF8&qid=1427458274&sr=8-3&keywords=cradle+to+cradle",
+  "español": "http://www.amazon.es/Cradle-cradle-Redise%C3%B1ando-forma-hacemos/dp/8448142950/ref=sr_1_1?ie=UTF8&qid=1427458274&sr=8-1&keywords=cradle+to+cradle",
+  "vía": "DIEGO"
+}

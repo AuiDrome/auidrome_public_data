@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:8888/json-context.json",
+  "@id": "http://otaony.com:8888/tuits/FLORICIENTA",
+  "auido": "FLORICIENTA",
+  "created_at": "2015-03-29 20:56:32 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "apellido": "DURMIENTE"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/DavidRadcliffe",
+  "auido": "DavidRadcliffe",
+  "created_at": "2015-03-25 09:48:14 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "proyecto": [
+    "RUBYGEMS.ORG",
+    "RUBYTOGETHER.ORG"
+  ],
+  "twitter": "@dwradcliffe",
+  "web": "dwradcliffe.com"
+}

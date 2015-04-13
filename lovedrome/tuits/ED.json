@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/ED",
+  "auido": "ED",
+  "created_at": "2015-03-19 00:49:04 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "ember meetup conversation": "https://secure.meetup.com/messages/?convo_id=163976759002505216&a=mg1_mnm",
+  "tags": [
+    "emberjs",
+    "Discourse"
+  ]
+}

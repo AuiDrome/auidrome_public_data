@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/IbrahimMaalouf",
+  "auido": "IbrahimMaalouf",
+  "created_at": "2015-04-07 18:43:11 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "youtube": "0IwhbhH8SYw"
+}

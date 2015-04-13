@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/ANDRÉARKO",
+  "auido": "ANDRÉARKO",
+  "created_at": "2015-03-25 09:29:44 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "project": "RUBYTOGETHER.ORG"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/ACTIVITYSTREAMS",
+  "auido": "ACTIVITYSTREAMS",
+  "created_at": "2015-03-22 11:04:01 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "hebra lista rails": "https://mail.google.com/mail/u/0/#search/activitystreams/1464d0c5f2326f7d",
+  "proyecto": "GETSTREAM.IO",
+  "spec v1.0": "http://activitystrea.ms/specs/json/1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/WatchPeopleCode.COM",
+  "auido": "WatchPeopleCode.COM",
+  "created_at": "2015-03-27 20:39:13 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "vía": "BÁRBARA",
+  "web": "watchpeoplecode.com"
+}

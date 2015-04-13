@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/CONFIDENT RUBY",
+  "auido": "CONFIDENT RUBY",
+  "created_at": "2015-03-24 12:39:15 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "vía": "ELTERCERO",
+  "email": "https://mail.google.com/mail/u/0/#inbox/14c4b46fb0f280b4"
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/LOOMIO",
+  "auido": "LOOMIO",
+  "created_at": "2015-03-22 09:44:19 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "pedalea": [
+    "MIX",
+    "RICHDBARLETT",
+    "BENKNIGHT",
+    "HANNAHSALMON"
+  ],
+  "priority-setting": "http://lacoctuitera.es/updates/550be3664a08670003002d8b",
+  "finding your way": "https://github.com/loomio/loomio-org/wiki/finding-your-way-in-an-emergent-organisation:-structure,-roles,-rhythm",
+  "email addresses": "https://mail.google.com/mail/u/0/#sent/14c31a458aa8fbf9",
+  "doc": "TUTORIAL DE LOOMIO EN ESPAÑOL"
+}

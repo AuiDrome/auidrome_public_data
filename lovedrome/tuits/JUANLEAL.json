@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/JUANLEAL",
+  "auido": "JUANLEAL",
+  "created_at": "2015-03-21 10:58:19 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "web": "SEISDEAGOSTO.com",
+  "compañero": "BUENHOMBRE",
+  "participa": "NACHOGIL"
+}

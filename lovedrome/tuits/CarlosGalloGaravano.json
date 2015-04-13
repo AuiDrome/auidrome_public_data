@@ -1,0 +1,20 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/CarlosGalloGaravano",
+  "auido": "CarlosGalloGaravano",
+  "created_at": "2015-04-06 08:25:44 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "SlideShare": "http://es.slideshare.net/morongps",
+  "doc": [
+    "TUTORIAL DE LOOMIO EN ESPAÑOL"
+  ],
+  "twitter": "@CarlosAGalloG",
+  "podcast": "http://www.ivoox.com/podcast-podcast-tu-granito-de-arena_sq_f183052_1.html",
+  "email": "morongps@hotmail.com",
+  "correo con teléfonos": "https://mail.google.com/mail/u/0/#inbox/14c9dfd27efa939a"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:4004/json-context.json",
+  "@id": "http://otaony.com:4004/tuits/MEGAN",
+  "auido": "MEGAN",
+  "created_at": "2015-03-16 22:44:37 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "procedencia": "Nueva York",
+  "nombre completo": "Megan Elizabeth McGrath",
+  "skype": "megan.thecocktail"
+}

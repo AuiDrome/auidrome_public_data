@@ -1,0 +1,12 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/SERGIOCANIS",
+  "auido": "SERGIOCANIS",
+  "created_at": "2015-04-06 11:18:43 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ]
+}

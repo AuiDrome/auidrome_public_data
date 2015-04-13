@@ -9,20 +9,44 @@
   "madrino": [
     "twitter/colgado"
   ],
-  "monolog": "http://lacoctuitera.es/updates/54b75d2f2c8a4200030000da",
-  "El Documental": [
+  "Cuestión de VIDA o MUERTE": "Tener siempre bien aireados los gemelos de detrás del penoso :)",
+  "El Evento y El Documental": [
     "http://lacoctuitera.es/updates/54bcf858783f1b000300025f"
   ],
-  "El Microsite": [
+  "Te echo una mano con lo de... El Microsite": [
     "https://mail.google.com/mail/u/0/#search/to%C3%B1o/14bdb79d521913dd"
   ],
-  "visita al rancho": "https://mail.google.com/mail/u/0/#inbox/14bee9e7127fdda8",
-  "SOLUCIONES": [{
-    "el evento": "al viento",
-    "el documental": "(NOT DROMED YET)",
-    "el microsite": "in the sky",
-    "al rancho": "que son anchos",
-    "la propuesta": "en una cesta",
-    "la feature": "so nature"
-  }]
+  "Visita al Rancho": "https://mail.google.com/mail/u/0/#inbox/14bee9e7127fdda8",
+  "OTRAS CUESTIONES IMPORTANTES": [
+    "No me han dicho nada de lo de La Propuesta",
+    "Tenemos que ver lo de esa Feature",
+    "Si no tenemos cuidado al final la vamos a liar",
+    "En TCK debería ser obligatorio saberse El Diagrama",
+    "Entonces, ¿tú no vas a bajar Al Foso?",
+    "Aunque Carlos insista yo no me creo lo de La Pilarica (especial para maños y otros mozos del Reino de Aragón)",
+    "En la cabecera hay que retocar un poco la ruca",
+    "El problema son los estorninos",
+    "¿Pero es que todavía no lo ves?",
+    "¿Qué tú tampoco? ¿ninguno de los dos lo véis?"
+  ],
+  "SOLUCIONES": [
+    {
+      "el evento": "al viento",
+      "el documental": "en Tribunal",
+      "el microsite": "in the sky",
+      "al rancho": "que son anchos",
+      "la propuesta": "en una cesta",
+      "la feature": "en la nube",
+      "la vamos a liar": "en el pajar|en el hangar|sin fumar",
+      "el diagrama": "por las ramas",
+      "al foso": "con nitroso",
+      "la pilarica": "que salpican",
+      "la ruca (OJO, contraejemplo)": "con peluca",
+      "los estorninos": "(NOT DROMED YET)",
+      "no lo ves": "treinta y tres",
+      "no lo véis": "treinta y seis"
+    }
+  ],
+  "participa": "UNTIPOFELIZ",
+  "¿Qué narices hacemos en El Foso?": "https://mail.google.com/mail/u/0/#inbox/14c9566234522765"
 }

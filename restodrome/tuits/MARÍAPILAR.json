@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:7007/json-context.json",
+  "@id": "http://otaony.com:7007/tuits/MARÍAPILAR",
+  "auido": "MARÍAPILAR",
+  "created_at": "2015-03-19 18:08:05 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "mails importantes": "https://mail.google.com/mail/u/0/h/1dus67gayl9dk/?&th=14c32c5d3692c049&v=c&s=s",
+  "mote": "MP",
+  "mensaje para vosotrxs de parte de nando...": "https://mail.google.com/mail/u/0/h/18kh1i7lca819/?&th=14c375928527acb0&v=c"
+}

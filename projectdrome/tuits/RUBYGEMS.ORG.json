@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/RUBYGEMS.ORG",
+  "auido": "RUBYGEMS.ORG",
+  "created_at": "2015-03-25 09:46:26 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "web": "RubyGems.org",
+  "pedalea": "DavidRadcliffe"
+}

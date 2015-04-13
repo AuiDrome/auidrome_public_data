@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/MAREA BLANCA",
+  "auido": "MAREA BLANCA",
+  "created_at": "2015-03-21 22:07:27 UTC",
+  "identity": [
+    "twitter/colgado_es"
+  ],
+  "madrino": [
+
+  ],
+  "historia de la marea blanca según enrique sánchez": "https://mail.google.com/mail/u/0/h/1ut1ws5roa9ly/?&th=14c3e5eafe2cfd26&dhm=1&d=u&n=47pb&v=c#m_14c3c71501b4bd72"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:7007/json-context.json",
+  "@id": "http://otaony.com:7007/tuits/AGUSTÍNDELACASA",
+  "auido": "AGUSTÍNDELACASA",
+  "created_at": "2015-03-20 17:07:25 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "correos chulos": "https://mail.google.com/mail/u/0/h/zx4wu2cfhnqm/?&th=14c342b8e38fb3df&v=c",
+  "pixieof": "CDU DE MADRID (clubdebatesurbanos.org)",
+  "proyecto": "CÍRCULO DE POZUELO"
+}

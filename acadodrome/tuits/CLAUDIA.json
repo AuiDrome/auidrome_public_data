@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:4004/json-context.json",
+  "@id": "http://otaony.com:4004/tuits/CLAUDIA",
+  "auido": "CLAUDIA",
+  "created_at": "2015-03-31 11:32:16 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "start_living_year": "1999",
+  "from": "BOADILLA DEL MONTE"
+}

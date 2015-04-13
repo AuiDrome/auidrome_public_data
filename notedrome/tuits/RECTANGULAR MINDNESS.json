@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/RECTANGULAR MINDNESS",
+  "auido": "RECTANGULAR MINDNESS",
+  "created_at": "2015-03-16 15:07:43 UTC",
+  "identity": [
+    "twitter/colgado_es",
+    "twitter/colgado"
+  ],
+  "madrino": [
+
+  ],
+  "monolog": "http://lacoctuitera.es/updates/5506c3a7c2955900030016ff",
+  "\"the book of nothing\" to avoid it": "http://lacoctuitera.es/updates/55070859c295590003003831"
+}
