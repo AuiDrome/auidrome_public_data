@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:3333/json-context.json",
+  "@id": "http://otaony.com:3333/tuits/MORA",
+  "auido": "MORA",
+  "created_at": "2015-05-02 07:53:07 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "amigo": [
+    "JULIO"  
+  ],
+  "anmigo": [
+    "DIO"
+  ],
+  "tags": "TIÉTAR"
+}
