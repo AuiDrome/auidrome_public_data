@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/New-in-Rails5 post",
+  "auido": "New-in-Rails5 post",
+  "created_at": "2015-05-05 17:00:03 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "url": "https://medium.com/evil-martians/the-rails-5-post-9c76dbac8fc",
+  "vía": "ELTERCERO",
+  "tags": [
+    "POST",
+    "RAILS",
+    "whatsnew"
+  ]
+}

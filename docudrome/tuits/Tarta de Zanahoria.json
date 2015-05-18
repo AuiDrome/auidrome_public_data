@@ -1,0 +1,38 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/Tarta de Zanahoria",
+  "auido": "Tarta de Zanahoria",
+  "created_at": "2015-05-12 05:49:10 UTC",
+  "identity": [
+    "twitter/colgado"
+  ],
+  "madrino": [
+
+  ],
+  "autora": "ISABELBAU",
+  "____para____": [
+    ":confetti_ball:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:confetti_ball:",
+    ":birthday: <strong>IRIA</strong> :birthday:",
+    ":tada: :balloon: :tada: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :circus_tent: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :tada: :balloon: :tada:"
+  ],
+  "Ingredientes": [
+    "1/2 kg de zanahorias",
+    "1 bolsa de sobaos",
+    "1 bote pequeño de leche condensada",
+    "100g de coco rallado",
+    ":rabbit2:"
+  ],
+  
+  "Elaboración": [
+    "1. Pelar las zanahorias.",
+    "2. Cocerlas hasta que estén blanditas.",
+    "3. Una vez cocidas quitar el exceso de agua (no la tires, separala en un bol) y triturarlas con una batidora hasta quede una crema.",
+    "4. Ir añadiendo leche condensada y agua de cocción hasta que la crema quede dulce y suficientemente líquida.",
+    "5. Añadir UN POCO DE COCO a la crema y reservar el resto para decorar.",
+    "6. El la fuente donde se vaya a servir ir alternando capas de sobaos y capas de crema hasta terminar la crema.",
+    "7. Cubrir con coco rallado para decorar.",
+    "8. Dejar reposar al menos 4 horas en la nevera, si son más mejor.",
+    ":dog: :hamster: :monkey: :cat: :mouse: :beetle: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :beetle: :mouse: :cat: :monkey: :hamster: :dog:",
+    ":rabbit::cake::rabbit:"
+  ]
+}

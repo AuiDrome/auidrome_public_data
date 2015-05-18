@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/WHITEnGOLD",
+  "auido": "WHITEnGOLD",
+  "created_at": "2015-05-06 07:50:55 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "images": [
+    "http://otaony.com:10003/images/WHITEnGOLD.jpg",
+    "http://otaony.com:10003/images/Vestido-WHITEnGOLD.jpg"
+  ],
+  "vía": "DanielDelMoral",
+  "tags": "CHISTE"
+}

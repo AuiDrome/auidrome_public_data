@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/STEWARDING (o AMADRINAMIENTO)",
+  "auido": "STEWARDING (o AMADRINAMIENTO)",
+  "created_at": "2015-04-22 08:45:54 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "on loomio": "https://github.com/loomio/loomio-org/wiki/stewarding:-accountability-and-support-in-a-workplace-without-bosses",
+  "EnSpiral Graph": "http://holodex.enspiral.info"
+}

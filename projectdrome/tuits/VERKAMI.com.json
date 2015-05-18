@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/VERKAMI.com",
+  "auido": "VERKAMI.com",
+  "created_at": "2015-04-29 17:44:21 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "vía": "CrowdSourcing.org",
+  "participa": "CarmenBoza"
+}

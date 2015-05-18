@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/Graph Databases",
+  "auido": "Graph Databases",
+  "created_at": "2015-04-23 08:27:04 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "email libro": "https://mail.google.com/mail/u/0/#inbox/14ce55e711614e19",
+  "The Neo4j Manual": "http://neo4j.com/docs/2.2.1/index.html",
+  "email {{WilliamBrooks}} NeoTechnologies.com": "https://mail.google.com/mail/u/0/#inbox/14cea47ac71c4de7"
+}

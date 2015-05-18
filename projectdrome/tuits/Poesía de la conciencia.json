@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/Poesía de la conciencia",
+  "auido": "Poesía de la conciencia",
+  "created_at": "2015-04-30 12:58:18 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "participa": "JorgeRiechmann"
+}

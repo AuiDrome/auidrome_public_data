@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/Alex García",
+  "auido": "Alex García",
+  "created_at": "2015-04-22 07:59:01 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "proyecto": "FUTURE BEATS",
+  "tags": "PRIMO!"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/Monte de Pozuelo",
+  "auido": "Monte de Pozuelo",
+  "created_at": "2015-04-17 11:37:02 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "pedalea": [
+    "MARÍA LACASA",
+    "SARA"
+  ]
+}

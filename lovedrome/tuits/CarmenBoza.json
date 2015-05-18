@@ -1,0 +1,20 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/CarmenBoza",
+  "auido": "CarmenBoza",
+  "created_at": "2015-04-29 17:50:16 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "utiliza": "VERKAMI.com",
+  "youtube": [
+    "xHW-Q1ahWd8",
+    "CPrVev3Hgtw"
+  ],
+  "soundcloud": "holamellamoboza",
+  "vía proyecto": "RADIO3",
+  "tags": "MÚSICA"
+}

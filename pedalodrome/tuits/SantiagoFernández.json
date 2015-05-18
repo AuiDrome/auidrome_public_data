@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/SantiagoFernández",
+  "auido": "SantiagoFernández",
+  "created_at": "2015-05-04 18:01:12 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "aka": "SANTI",
+  "equipo": "ASTURIANO"
+}

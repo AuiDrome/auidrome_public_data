@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/Quantum Locking",
+  "auido": "Quantum Locking",
+  "created_at": "2015-04-22 14:52:38 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "youtube": "Ws6AAhTw7RA"
+}

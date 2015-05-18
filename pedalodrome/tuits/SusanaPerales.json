@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/SusanaPerales",
+  "auido": "SusanaPerales",
+  "created_at": "2015-04-14 14:45:25 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "from": "San Clodio (Lugo)",
+  "equipo": "JEFXS DE PROYECTO",
+  "Salida de Ushuaia": "https://mail.google.com/mail/u/0/#inbox/14cb82e234dc2e73",
+  "ha pedaleado con": "APSL"
+}

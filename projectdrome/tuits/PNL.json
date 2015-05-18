@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/PNL",
+  "auido": "PNL",
+  "created_at": "2015-05-04 08:08:38 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "web": "http://es.wikipedia.org/wiki/Programaci%C3%B3n_neuroling%C3%BC%C3%ADstica",
+  "siglas de": "Programación NeuroLinguística"
+}

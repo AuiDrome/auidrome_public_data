@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/SusanaPellicer",
+  "auido": "SusanaPellicer",
+  "created_at": "2015-04-25 12:17:31 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "proyecto": "GusMarionetas.com",
+  "obra": "La Bibliotecaria en Apuros"
+}

@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:7557/json-context.json",
+  "@id": "http://otaony.com:7557/tuits/COCTELERA-ENFURECIDA",
+  "auido": "COCTELERA-ENFURECIDA",
+  "created_at": "2015-05-18 09:14:34 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "parte de": "DOGMOUNT"
+}

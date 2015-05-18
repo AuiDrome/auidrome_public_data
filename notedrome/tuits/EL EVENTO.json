@@ -27,7 +27,10 @@
     "En la cabecera hay que retocar un poco la ruca",
     "El problema son los estorninos",
     "¿Pero es que todavía no lo ves?",
-    "¿Qué tú tampoco? ¿ninguno de los dos lo véis?"
+    "¿Qué tú tampoco? ¿ninguno de los dos lo véis?",
+    "¿Te salió cara la cena?",
+    "¿Has probado ya el nuevo IDE?",
+    "¿Qué URL usamos para La Plataforma?"
   ],
   "SOLUCIONES": [
     {
@@ -42,11 +45,16 @@
       "al foso": "con nitroso",
       "la pilarica": "que salpican",
       "la ruca (OJO, contraejemplo)": "con peluca",
-      "los estorninos": "(NOT DROMED YET)",
+      "los estorninos": "(NOT DROMED YET (ask Pau))",
       "no lo ves": "treinta y tres",
-      "no lo véis": "treinta y seis"
+      "no lo véis": "treinta y seis",
+      "cara la cena": "sin melena",
+      "el IDE": "Wanna be there!",
+      "la plataforma": "(NOT DROMED YET (ask Oskar))"
     }
   ],
   "participa": "UNTIPOFELIZ",
-  "¿Qué narices hacemos en El Foso?": "https://mail.google.com/mail/u/0/#inbox/14c9566234522765"
+  "¿Qué narices hacemos en El Foso?": "https://mail.google.com/mail/u/0/#inbox/14c9566234522765",
+  "tags": "CHISTE",
+  "recomienda leer": "El Bueno y Breve"
 }

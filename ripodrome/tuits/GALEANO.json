@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:7007/json-context.json",
+  "@id": "http://otaony.com:7007/tuits/GALEANO",
+  "auido": "GALEANO",
+  "created_at": "2014-12-17 11:15:51 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "Twitter": "@EduardoGaleano",
+  "trabajo": "MARACAIBO Y LOS BUITRES",
+  "fromdrome": "restodrome"
+}

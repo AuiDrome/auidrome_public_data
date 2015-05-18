@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:8008/json-context.json",
+  "@id": "http://otaony.com:8008/tuits/EdwinHowardArmstrong",
+  "auido": "EdwinHowardArmstrong",
+  "created_at": "2015-04-24 15:58:33 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "web": "en.wikipedia.org/wiki/Edwin_Howard_Armstrong",
+  "FM R.I.P. en Noruega": "https://twitter.com/cajadecerillas/status/591181859339575296"
+}

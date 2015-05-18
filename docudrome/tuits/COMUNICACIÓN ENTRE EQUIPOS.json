@@ -1,0 +1,31 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/COMUNICACIÓN ENTRE EQUIPOS",
+  "auido": "COMUNICACIÓN ENTRE EQUIPOS",
+  "created_at": "2015-05-07 15:09:11 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "participa": "BERGANTIÑOS",
+  "email": "https://mail.google.com/mail/u/0/#inbox/14d2e01826c33996",
+  "equipo": [
+    "UX",
+    "CONT",
+    "DIS",
+    "DES",
+    "MKT",
+    "FRONT",
+    "EST",
+    "TCA",
+    "JPs",
+    "SEO",
+    "MÉTRICAS",
+    "CRM",
+    "ADM",
+    "LEGAL",
+    "RRHH (= Recursos Hermanos =;)"
+  ]
+}

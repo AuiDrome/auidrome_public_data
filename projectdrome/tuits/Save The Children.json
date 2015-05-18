@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/Save The Children",
+  "auido": "Save The Children",
+  "created_at": "2015-04-17 09:33:55 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "pedalea": "CLARAÁVILA"
+}

@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:7007/json-context.json",
+  "@id": "http://otaony.com:7007/tuits/ManuelaCARMENA",
+  "auido": "ManuelaCARMENA",
+  "created_at": "2015-05-04 10:51:02 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "youtube": "kmAmmxZI3gY"
+}

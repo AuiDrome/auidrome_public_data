@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/BITCOIN-presenta-BitCoin",
+  "auido": "BITCOIN-presenta-BitCoin",
+  "created_at": "2015-05-09 08:15:54 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "web": "https://bitcoin.org/files/bitcoin-paper/bitcoin_es.pdf",
+  "original en inglés": "https://bitcoin.org/bitcoin.pdf"
+}

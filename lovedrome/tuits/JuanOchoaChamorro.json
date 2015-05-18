@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/JuanOchoaChamorro",
+  "auido": "JuanOchoaChamorro",
+  "created_at": "2015-04-28 05:47:11 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "moción bicis": "https://mail.google.com/mail/u/0/h/1hw2vzjexdgw1/?&th=14bcb3eb0bc23673&q=ochoa&v=c&s=q",
+  "donar becas comedor": "https://www.change.org/p/a-los-60-diputados-con-casa-propia-en-madrid-donen-los-1800-de-dietas-de-alojamiento-a-becas-comedor-2?alert_id=KqFkJDfdFz_PSgunqRzsI",
+  "perfil en change.org": "https://www.change.org/u/juan-ochoa-7",
+  "tags": "POZUELO",
+  "proyecto": "SOMOS POZUELO"
+}

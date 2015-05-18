@@ -1,0 +1,20 @@
+{
+  "@context": "http://otaony.com:30003/json-context.json",
+  "@id": "http://otaony.com:30003/tuits/IV OPEN DE PEDRO BERNARDO",
+  "auido": "IV OPEN DE PEDRO BERNARDO",
+  "created_at": "2015-05-06 16:15:39 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "web": "airtribune.com/openpb2015",
+  "tags": "ALADELTA",
+  "youtube": [
+    "Q1fHk8ml6mk",
+    "BpTqCrrRgXU"
+  ],
+  "email resultados": "https://mail.google.com/mail/u/0/h/rfa8xu26t249/?&th=14d24815fb447736&q=open&v=c&s=q",
+  "foto": "https://instagram.com/p/2LICSOomCa/"
+}

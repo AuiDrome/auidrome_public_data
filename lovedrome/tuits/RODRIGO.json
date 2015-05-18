@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/RODRIGO",
+  "auido": "RODRIGO",
+  "created_at": "2015-04-17 11:01:30 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "equipo": "FRONT"
+}

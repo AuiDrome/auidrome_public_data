@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/GA-Hackathon-in-London",
+  "auido": "GA-Hackathon-in-London",
+  "created_at": "2015-05-14 09:44:32 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+  ],
+  "url": "http://analytics.blogspot.com.es/2015/05/google-analytics-hackathon-in-london.html",
+  "vía": "RAFAELGARCÍA"
+}

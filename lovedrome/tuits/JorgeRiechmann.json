@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/JorgeRiechmann",
+  "auido": "JorgeRiechmann",
+  "created_at": "2015-04-30 08:29:17 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "wikipedia": "https://es.wikipedia.org/wiki/Jorge_Riechmann",
+  "foto": "https://instagram.com/p/2B0IpXomHA",
+  "movimiento": "Poesía de la conciencia"
+}

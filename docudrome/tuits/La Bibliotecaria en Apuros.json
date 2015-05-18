@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/La Bibliotecaria en Apuros",
+  "auido": "La Bibliotecaria en Apuros",
+  "created_at": "2015-04-25 11:56:07 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "tags": [
+    "TEATRO",
+    "MARIONETAS"
+  ],
+  "proyecto": "GusMarionetas.com",
+  "adaptación de": "El Secuestro de la Bibliotecaria",
+  "participa": "FernandoArregui"
+}

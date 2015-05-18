@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/Frases Épicas",
+  "auido": "Frases Épicas",
+  "created_at": "2015-04-22 16:52:42 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "Sobre la web del Mercadona": [
+    "[...], a mi me parece como untar un pepinillo en un bote de mierda.",
+    "https://mail.google.com/mail/u/0/#inbox/14ce05062dca6b95"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/PARAPÉN",
+  "auido": "PARAPÉN",
+  "created_at": "2015-05-09 17:21:59 UTC",
+  "identity": [
+    "twitter/loquemedigas"
+  ],
+  "madrino": [
+
+  ],
+  "mascota": "NALITA",
+  "tags": "VUELO",
+  "aparece en": "VUELO DE GRANADA",
+  "": "NALITA"
+}

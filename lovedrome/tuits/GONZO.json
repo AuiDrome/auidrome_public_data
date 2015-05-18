@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/GONZO",
+  "auido": "GONZO",
+  "created_at": "2015-05-13 20:50:32 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "wikipedia": "es.wikipedia.org/wiki/Fernando_González_«Gonzo»",
+  "twitter": "a_lo_gonzo",
+  "entrevista": "http://carnecruda.es/2015/05/12/gonzo-que-siga-esperanza-aguirre-en-politica-es-una-derrota-del-periodismo/",
+  "monolog": "http://twitter.com/colgado_es/status/598601577927172096"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/WilliamBrooks",
+  "auido": "WilliamBrooks",
+  "created_at": "2015-04-29 05:22:39 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "proyecto": [
+    "Neo4j"
+  ],
+  "Resources Email": "https://mail.google.com/mail/u/0/#inbox/14cea47ac71c4de7"
+}

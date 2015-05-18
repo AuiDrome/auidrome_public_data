@@ -1,0 +1,27 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/La-Esquina-del-Desierto",
+  "auido": "La-Esquina-del-Desierto",
+  "created_at": "2015-04-22 15:07:31 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "EL TALLER DE CAMELLOS": [
+    "El camello :camel: se me avería en medio del desierto. :anguished:",
+    "— ¿Es aquello un taller o un espejismo?",
+    "tras un par de horas tirando del camello veo que es MI TALLER!!!",
+    "───┤Taller de Camellos \"El Jorobado\"├───",
+    "— Ponlo encima del foso mirando hacia la calle- me dice \"el mecánico\".",
+    "Cuando logro colocarlo me pide que me retire.",
+    "Separa los brazos con una gran piedra en cada mano...",
+    "y las golpea con fuerza con los huevos del camello entre ellas.",
+    "Y claro, el camello se pone a galopar como si no hubiera mañana.:racehorse:",
+    "— ¡Maravilloso! Pero ahora, ¿cómo lo pillo?",
+    "— Súbete al foso. :stuck_out_tongue_closed_eyes:"
+  ],
+  "EL BAR": "No me lo podía creer. Por suerte justo al lado había un bar... :beer:",
+  "tags": "CHISTE"
+}

@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/Nuboso, con posibilidad de despliegue",
+  "auido": "Nuboso, con posibilidad de despliegue",
+  "created_at": "2015-04-20 08:27:42 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "author": "JJMerelo",
+  "web": "http://www.revistacloudcomputing.com/2015/01/nuboso-con-posibilidad-de-despliegue-un-acercamiento-practico-a-la-programacion-en-la-nube/"
+}

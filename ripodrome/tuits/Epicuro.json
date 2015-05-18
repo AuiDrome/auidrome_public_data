@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:8008/json-context.json",
+  "@id": "http://otaony.com:8008/tuits/Epicuro",
+  "auido": "Epicuro",
+  "created_at": "2015-04-30 22:25:55 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "cita": "Nada es suficiente para quien lo suficiente es poco",
+  "vía": "JorgeRiechmann"
+}

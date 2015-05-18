@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/EL CAMBIO",
+  "auido": "EL CAMBIO",
+  "created_at": "2015-05-02 08:37:43 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "web": "http://www.amazon.es/El-cambio-ambici%C3%B3n-vida-sentido-ebook/dp/B0062XCIOU",
+  "opinión": "http://elpais.com/elpais/2015/04/24/opinion/1429883919_117080.html",
+  "tags": "TORRALBA PABLOIGLESIAS PODEMOS"
+}

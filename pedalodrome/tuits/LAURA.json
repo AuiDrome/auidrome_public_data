@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/LAURA",
+  "auido": "LAURA",
+  "created_at": "2015-04-27 07:18:30 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "instagram": "lauramellamo",
+  "mascota": "Manuelita",
+  "equipo": "MARKETING",
+  "foto": "https://instagram.com/p/sNKrq0IzVI/"
+}
