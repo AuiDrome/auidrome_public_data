@@ -1,0 +1,21 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/CONSEJO%20A%20KEANU%20REEVES",
+  "auido": "CONSEJO A KEANU REEVES",
+  "created_at": "2015-06-11 12:27:23 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "consejo a keanu reeves",
+  "filename": "consejo a keanu reeves",
+  "json_url": "http://otaony.com:10003/tuits/consejo a keanu reeves.json",
+  "con ayuda de {{Sergio4j}}": "MATCH (k {name: \"Keanu Reeves\"}), (b:Person)-[:ACTED_IN]->() WHERE NOT (k)-[:ACTED_IN]->()<-[:ACTED_IN]-(b) and k<>b RETURN b",
+  "updated_at": "2015-06-13 17:24:25 UTC",
+  "curso": "Neo4jFundamentals",
+  "ponente": "PERDOMO",
+  "participa": "SergioDelgado",
+  "solución": "MATCH (keanu:Person)-[:ACTED_IN]->()<-[:ACTED_IN]-(c),(c)-[:ACTED_IN]->()<-[:ACTED_IN]-(coc) WHERE keanu.name = \"Keanu Reeves\" AND NOT((keanu)-[:ACTED_IN]->()<-[:ACTED_IN]-(coc)) AND coc <> keanu RETURN coc.name, count(coc) ORDER BY count(coc) DESC"
+}

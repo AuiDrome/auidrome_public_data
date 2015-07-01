@@ -1,0 +1,20 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/CésarLuquero",
+  "auido": "CésarLuquero",
+  "created_at": "2015-05-20 06:14:01 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "cesarluquero",
+  "filename": "CésarLuquero",
+  "json_url": "http://otaony.com:6556/tuits/CésarLuquero.json",
+  "proyecto": [
+    "DivisionSonora.com",
+    "LaIslaDeEncanta"
+  ],
+  "updated_at": "2015-05-28 11:22:43 UTC"
+}

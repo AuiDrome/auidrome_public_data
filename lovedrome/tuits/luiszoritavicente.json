@@ -1,0 +1,23 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/LuisZoritaVicente",
+  "auido": "LuisZoritaVicente",
+  "created_at": "2015-06-12 11:01:01 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "luiszoritavicente",
+  "filename": "luiszoritavicente",
+  "json_url": "http://otaony.com:6556/tuits/luiszoritavicente.json",
+  "tags": [
+    "UNED",
+    "SEMÁNTICA",
+    "NEO4J"
+  ],
+  "updated_at": "2015-06-12 11:09:33 UTC",
+  "ResearchGate": "http://www.researchgate.net/profile/Luis_Vicente5",
+  "asistente a": "Neo4jFundamentals"
+}

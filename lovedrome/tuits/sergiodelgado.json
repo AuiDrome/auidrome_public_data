@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/SergioDelgado",
+  "auido": "SergioDelgado",
+  "created_at": "2015-06-12 14:35:07 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "sergiodelgado",
+  "filename": "sergiodelgado",
+  "json_url": "http://otaony.com:6556/tuits/sergiodelgado.json",
+  "asistente a": "Neo4jFundamentals",
+  "updated_at": "2015-06-12 14:37:04 UTC",
+  "note": "CONSEJO A KEANU REEVES"
+}

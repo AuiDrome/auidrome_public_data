@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/1099e54b497ec3ec08d8913f8a899681719a0e4b",
+  "auido": "1099e54b497ec3ec08d8913f8a899681719a0e4b",
+  "created_at": "2015-07-01 10:14:11 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "1099e54b497ec3ec08d8913f8a899681719a0e4b",
+  "filename": "1099e54b497ec3ec08d8913f8a899681719a0e4b",
+  "json_url": "http://otaony.com:10003/tuits/1099e54b497ec3ec08d8913f8a899681719a0e4b.json",
+  "author": "Kasper",
+  "updated_at": "2015-07-01 10:14:12 UTC"
+}

@@ -1,0 +1,23 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/PUERTA3",
+  "auido": "PUERTA3",
+  "created_at": "2015-06-02 05:33:13 UTC",
+  "identity": [
+    "twitter/colgado_es"
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "puerta3",
+  "filename": "puerta3",
+  "json_url": "http://otaony.com:10003/tuits/puerta3.json",
+  "updated_at": "2015-06-04 09:23:58 UTC",
+  "la vamos a liar": "SIN FUMAR, cual vencejo.",
+  "pensamiento relacionado": "EL EVENTO",
+  "proyecto": [
+    "GNUsocial.NET",
+    "DromeLand",
+    "CDU DE MADRID"
+  ]
+}

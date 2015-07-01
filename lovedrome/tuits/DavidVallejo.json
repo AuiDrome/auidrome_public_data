@@ -9,10 +9,16 @@
   "madrino": [
 
   ],
+  "transliterated": "davidvallejo",
+  "filename": "DavidVallejo",
+  "json_url": "http://otaony.com:6556/tuits/DavidVallejo.json",
   "equipo": "MÉTRICAS",
   "tags": [
     "MEDICIÓN OFF-LINE",
     "RaspberryPi",
     "PYTHON"
-  ]
+  ],
+  "proyecto": "ProyectoDelorean",
+  "updated_at": "2015-06-01 10:43:06 UTC",
+  "compañero": "ANDER"
 }

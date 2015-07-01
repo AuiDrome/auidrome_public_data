@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/HijackingFREEsoftware",
+  "auido": "HijackingFREEsoftware",
+  "created_at": "2015-06-04 13:25:49 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "transliterated": "hijackingfreesoftware",
+  "filename": "hijackingfreesoftware",
+  "json_url": "http://otaony.com:10003/tuits/hijackingfreesoftware.json",
+  "updated_at": "2015-06-04 13:36:43 UTC",
+  "nmap, for example (vía @drymer@gnusocial.net)": "http://seclists.org/nmap-dev/2015/q2/194",
+  "SourceForge Hijacking Project Accounts": "http://www.reddit.com/r/linux/comments/37h4x5/sourceforge_hijacking_project_accounts_gimp/"
+}

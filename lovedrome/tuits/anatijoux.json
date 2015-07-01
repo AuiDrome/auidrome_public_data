@@ -1,0 +1,23 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/AnaTijoux",
+  "auido": "AnaTijoux",
+  "created_at": "2015-06-23 19:58:23 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "transliterated": "anatijoux",
+  "filename": "anatijoux",
+  "json_url": "http://otaony.com:6556/tuits/anatijoux.json",
+  "tags": [
+    "MÚSICA",
+    "HIPHOP"
+  ],
+  "updated_at": "2015-06-24 07:07:30 UTC",
+  "from": "CHILE",
+  "youtube": "BN4k3mnJteo",
+  "emailSara": "https://mail.google.com/mail/u/0/#inbox/14e2452c91622ae1"
+}

@@ -1,0 +1,20 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/WayneWDyer",
+  "auido": "WayneWDyer",
+  "created_at": "2015-06-19 14:33:24 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "waynewdyer",
+  "filename": "waynewdyer",
+  "json_url": "http://otaony.com:6556/tuits/waynewdyer.json",
+  "obra": [
+    "INSPIRATION",
+    "EL CAMBIO"
+  ],
+  "updated_at": "2015-06-20 15:15:33 UTC"
+}

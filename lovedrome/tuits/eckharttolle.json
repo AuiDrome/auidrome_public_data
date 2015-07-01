@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/EckhartTolle",
+  "auido": "EckhartTolle",
+  "created_at": "2015-05-30 12:33:23 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "eckharttolle",
+  "filename": "eckharttolle",
+  "json_url": "http://otaony.com:6556/tuits/eckharttolle.json",
+  "vía": "GEMAporta",
+  "updated_at": "2015-05-31 18:32:34 UTC",
+  "youtube": "0KNefVPDbsQ",
+  "web": "EckhartTolle.com"
+}

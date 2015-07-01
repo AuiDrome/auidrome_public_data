@@ -9,7 +9,10 @@
   "madrino": [
 
   ],
-  "images": "http://otaony.com:10003/images/LA-COSA-BAJO-CONTROL.png",
+  "images": [
+    "http://otaony.com:10003/images/LA-COSA-BAJO-CONTROL.png",
+    "http://40.media.tumblr.com/e342ad275876495576215d2c6f576152/tumblr_noki3zPSX11rq7z94o1_1280.jpg"
+  ],
   "vía": "SERGIOCANIS",
   "email origen y posteriores desvaríos relacionados con La Cosa": "https://mail.google.com/mail/u/0/#search/vacaciones/14d29f7166691e16"
 }

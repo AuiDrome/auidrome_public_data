@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/FernandoGonzález",
+  "auido": "FernandoGonzález",
+  "created_at": "2015-05-26 06:06:40 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "sluggarized": "FernandoGonzalez",
+  "cartel": "MADRIDconMANUELA",
+  "tags": "POZUELO",
+  "email": "https://mail.google.com/mail/u/0/#inbox/14d7039b55ef586c"
+}

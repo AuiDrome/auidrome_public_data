@@ -1,0 +1,23 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/CatiRodr%C3%ADguez",
+  "auido": "CatiRodríguez",
+  "created_at": "2015-06-14 20:45:34 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "catirodriguez",
+  "filename": "catirodriguez",
+  "json_url": "http://otaony.com:6556/tuits/catirodriguez.json",
+  "tags": [
+    "ALCALDESA",
+    "SANFER"
+  ],
+  "updated_at": "2015-06-14 20:53:48 UTC",
+  "artículo": "http://www.ensanfernandodehenares.es/noticias/2015/06/13/7310/cati-rodriguez-alcaldesa-de-san-fernando-de-henares",
+  "vía": "SARA",
+  "proyecto": "SanferPuede"
+}

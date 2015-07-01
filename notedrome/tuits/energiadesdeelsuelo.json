@@ -1,0 +1,29 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/Energ%C3%ADaDesdeElSuelo",
+  "auido": "EnergíaDesdeElSuelo",
+  "created_at": "2015-06-29 10:30:24 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "energiadesdeelsuelo",
+  "filename": "energiadesdeelsuelo",
+  "json_url": "http://otaony.com:10003/tuits/energiadesdeelsuelo.json",
+  "doc": "NuestraPropiaFuerzaGravitacional",
+  "updated_at": "2015-06-29 10:48:49 UTC",
+  "miquel": [
+    "esta era la idea original del carril bici solar de holanda:",
+    "http://phys.org/news/2014-11-solaroad-world-solar-path-netherlands.html",
+    "...y aquí la parte negativa:",
+    "http://es.gizmodo.com/el-futurista-carril-bici-solar-de-amsterdam-es-en-rea-1708666496",
+    "ha sido un poco fracaso, pero ha servido para dar nuevas ideas",
+    "como el nuevo carril bici que han abierto en korea:",
+    "https://www.youtube.com/watch?v=LuYsYLqjUtU",
+    "que si que me parece impresionante",
+    ":sunrise:"
+  ],
+  "vía": "MiquelGomis"
+}

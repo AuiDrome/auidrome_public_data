@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/WebAudioAPI-y-KJabata",
+  "auido": "WebAudioAPI-y-KJabata",
+  "created_at": "2015-05-20 05:59:47 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "despertares": "http://lacoctuitera.es/updates/555c2254c2ef710003000366",
+  "tuit de Sergio": "https://twitter.com/colgado/status/600901332522901505",
+  "chascarrillo con Sayar": "https://twitter.com/jsayar/status/600788676285693954"
+}

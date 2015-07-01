@@ -1,0 +1,26 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/PabloSoto",
+  "auido": "PabloSoto",
+  "created_at": "2015-06-14 21:05:15 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "pablosoto",
+  "filename": "pablosoto",
+  "json_url": "http://otaony.com:6556/tuits/pablosoto.json",
+  "proyecto": "AhoraMadrid",
+  "updated_at": "2015-06-14 21:18:27 UTC",
+  "tags": [
+    "MADRID",
+    "CONCEJAL",
+    "SoftwareLibre",
+    "P2P"
+  ],
+  "twitter": "@PabloMp2p",
+  "youtube": "Nry4mqTB3F8",
+  "la receta de Ahora Madrid": "http://www.economiadigital.es/es/notices/2015/06/tao-tecnics-gestion-tributaria-territorial-y-t-systems.-72790.php"
+}

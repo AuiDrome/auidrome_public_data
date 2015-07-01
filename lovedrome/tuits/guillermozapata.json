@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/GuillermoZapata",
+  "auido": "GuillermoZapata",
+  "created_at": "2015-06-17 14:17:17 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "guillermozapata",
+  "filename": "guillermozapata",
+  "json_url": "http://otaony.com:6556/tuits/guillermozapata.json",
+  "tuit": "http://lacoctuitera.es/updates/5581b17a1955590003000501",
+  "updated_at": "2015-06-19 09:06:31 UTC"
+}

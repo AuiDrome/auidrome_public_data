@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/JoanAMel%C3%A9",
+  "auido": "JoanAMelé",
+  "created_at": "2015-06-26 15:08:24 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "joanamele",
+  "filename": "joanamele",
+  "json_url": "http://otaony.com:6556/tuits/joanamele.json",
+  "recomienda leer": "EstoLoCambiaTodo",
+  "updated_at": "2015-06-26 15:11:01 UTC",
+  "youtube": "wXzYCEzRlN4",
+  "nombre": "Joan Antoni"
+}

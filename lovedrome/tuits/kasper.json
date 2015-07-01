@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/Kasper",
+  "auido": "Kasper",
+  "created_at": "2015-07-01 10:03:07 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "kasper",
+  "filename": "kasper",
+  "json_url": "http://otaony.com:6556/tuits/kasper.json",
+  "tags": "RAILS",
+  "updated_at": "2015-07-01 10:15:30 UTC",
+  "commit": "1099e54b497ec3ec08d8913f8a899681719a0e4b",
+  "fullname": "Kasper Timm Hansen"
+}

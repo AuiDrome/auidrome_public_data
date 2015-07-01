@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/BEA",
+  "auido": "BEA",
+  "created_at": "2015-05-30 08:55:57 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "bea",
+  "filename": "BEA",
+  "json_url": "http://otaony.com:6556/tuits/BEA.json",
+  "abuelo": "PAPAKIKO",
+  "updated_at": "2015-05-30 09:19:48 UTC",
+  "hermano": "NANDO"
+}

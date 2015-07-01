@@ -9,8 +9,18 @@
   "madrino": [
     "twitter/colgado"
   ],
+  "transliterated": "perdomo",
+  "filename": "PERDOMO",
+  "json_url": "http://otaony.com:6556/tuits/PERDOMO.json",
   "Twitter": "@albertoperdomo",
   "Github": "http://github.com/albertoperdomo",
   "Web": "http://albertoperdomo.net/",
-  "proyecto": "Neo4j"
+  "proyecto": [
+    "GrapheneDB.com"
+  ],
+  "recomienda el proyecto": "Neo4j",
+  "updated_at": "2015-06-12 22:33:49 UTC",
+  "evento": "Neo4jFundamentals",
+  "anmigo": "LUKE",
+  "anmiga": "RUBY"
 }

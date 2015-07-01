@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/DavidBryantCopeland",
+  "auido": "DavidBryantCopeland",
+  "created_at": "2015-06-22 06:37:38 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "davidbryantcopeland",
+  "filename": "davidbryantcopeland",
+  "json_url": "http://otaony.com:6556/tuits/davidbryantcopeland.json",
+  "obra": "BuildAwesomeCommandLineApps",
+  "updated_at": "2015-06-22 07:22:40 UTC",
+  "twitter": "@davetron5000",
+  "post": "http://naildrivin5.com/blog/2013/01/24/if-you-call-out-bad-code.html"
+}

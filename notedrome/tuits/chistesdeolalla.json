@@ -1,0 +1,21 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/CHISTESdeOLALLA",
+  "auido": "CHISTESdeOLALLA",
+  "created_at": "2015-06-19 20:22:57 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "chistesdeolalla",
+  "filename": "chistesdeolalla",
+  "json_url": "http://otaony.com:10003/tuits/chistesdeolalla.json",
+  "LAS PINTURAS": [
+    "¿Qué le dice una pintura a otra tiradas en el suelo?",
+    "— Aquí no pintamos nada.",
+    ":nail_care:"
+  ],
+  "updated_at": "2015-06-19 21:07:08 UTC"
+}

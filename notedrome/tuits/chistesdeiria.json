@@ -1,0 +1,21 @@
+{
+  "@context": "http://otaony.com:10003/json-context.json",
+  "@id": "http://otaony.com:10003/tuits/CHISTESdeIRIA",
+  "auido": "CHISTESdeIRIA",
+  "created_at": "2015-06-19 21:12:40 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "chistesdeiria",
+  "filename": "chistesdeiria",
+  "json_url": "http://otaony.com:10003/tuits/chistesdeiria.json",
+  "LAS PIEDRAS": [
+    "¿Qué le dice una piedra a otra?",
+    "— La vida es dura.",
+    ":moyai:"
+  ],
+  "updated_at": "2015-06-19 21:19:29 UTC"
+}

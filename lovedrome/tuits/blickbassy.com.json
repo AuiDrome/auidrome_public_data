@@ -1,0 +1,21 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/BlickBassy.com",
+  "auido": "BlickBassy.com",
+  "created_at": "2015-06-12 07:59:05 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "blickbassy.com",
+  "filename": "blickbassy.com",
+  "json_url": "http://otaony.com:6556/tuits/blickbassy.com.json",
+  "youtube": [
+    "WSlmt2a7k6I",
+    "q6FEFhqIzbY"
+  ],
+  "updated_at": "2015-06-12 08:35:32 UTC",
+  "evento": "LeFestiBikutsi"
+}

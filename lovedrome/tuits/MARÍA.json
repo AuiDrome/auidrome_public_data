@@ -9,8 +9,16 @@
   "madrino": [
     "twitter/colgado"
   ],
-  "tags": "SEMÁNTICA PALOMARES",
+  "transliterated": "maria",
+  "filename": "MARÍA",
+  "json_url": "http://otaony.com:6556/tuits/MARÍA.json",
+  "tags": [
+    "PALOMARES",
+    "SEMÁNTICA",
+    "UPM"
+  ],
   "proyecto": "CALLEJERO SEMÁNTICO",
   "email": "mpoveda@fi.upm.es",
-  "hackatón": "HACKATÓN INTERNACIONAL DATOS ABIERTOS"
+  "hackatón": "HACKATÓN INTERNACIONAL DATOS ABIERTOS",
+  "updated_at": "2015-06-12 07:54:18 UTC"
 }
