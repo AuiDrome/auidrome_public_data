@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/Mar%C3%ADaFl%C3%B3rez",
+  "auido": "MaríaFlórez",
+  "created_at": "2015-06-02 05:55:31 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "mariaflorez",
+  "filename": "mariaflorez",
+  "json_url": "http://otaony.com:5005/tuits/mariaflorez.json",
+  "presentación": "https://mail.google.com/mail/u/0/#inbox/14daf4a789b8e557",
+  "updated_at": "2015-06-02 06:13:45 UTC",
+  "equipo": "CONTACTO",
+  "tags": "ESPIGADORA"
+}

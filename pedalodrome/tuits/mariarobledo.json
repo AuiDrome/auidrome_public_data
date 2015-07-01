@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/Mar%C3%ADaRobledo",
+  "auido": "MaríaRobledo",
+  "created_at": "2015-06-02 05:59:47 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "transliterated": "mariarobledo",
+  "filename": "mariarobledo",
+  "json_url": "http://otaony.com:5005/tuits/mariarobledo.json",
+  "su equipo": "CONSULTORÍA",
+  "updated_at": "2015-06-02 12:52:12 UTC",
+  "presentación": "https://mail.google.com/mail/u/0/#inbox/14db01ad6c652f6e",
+  "me trae a": "ALE"
+}

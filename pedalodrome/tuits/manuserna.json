@@ -1,0 +1,29 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/ManuSERNA",
+  "auido": "ManuSERNA",
+  "created_at": "2015-06-02 15:46:49 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "manuserna",
+  "filename": "manuserna",
+  "json_url": "http://otaony.com:5005/tuits/manuserna.json",
+  "equipo": "ESTRATEGIA",
+  "updated_at": "2015-06-03 06:44:11 UTC",
+  "presentación": "https://mail.google.com/mail/u/0/#inbox/14db487f851bf8c1",
+  "tags": [
+    "RUGBY",
+    "INGENIEROdeCAMINOS",
+    "MUEBLES",
+    "RUNNER"
+  ],
+  "from": [
+    "ALICANTE",
+    "Novelda"
+  ],
+  "twitter": "@MaSerIg"
+}

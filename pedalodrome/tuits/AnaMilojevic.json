@@ -1,7 +1,7 @@
 {
   "@context": "http://otaony.com:5005/json-context.json",
-  "@id": "http://otaony.com:5005/tuits/ANA",
-  "auido": "ANA",
+  "@id": "http://otaony.com:5005/tuits/AnaMilojevic",
+  "auido": "AnaMilojevic",
   "created_at": "2015-01-23 16:05:04 UTC",
   "identity": [
 
@@ -9,5 +9,10 @@
   "madrino": [
     "twitter/cicloon"
   ],
-  "equipo": "FRONT"
+  "transliterated": "anamilojevic",
+  "filename": "AnaMilojevic",
+  "json_url": "http://otaony.com:5005/tuits/AnaMilojevic.json",
+  "equipo": "FRONT",
+  "receta": "TARTA FLAN DE QUESO",
+  "updated_at": "2015-06-04 09:38:47 UTC"
 }

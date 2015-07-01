@@ -9,6 +9,14 @@
   "madrino": [
 
   ],
+  "transliterated": "knapp",
+  "filename": "KNAPP",
+  "json_url": "http://otaony.com:5005/tuits/KNAPP.json",
   "web": "albertoknapp.com",
-  "recomienda leer": "http://techcrunch.com/2015/04/18/you-dont-need-a-digital-strategy-you-need-a-digitally-transformed-company/"
+  "recomienda leer": [
+    "http://techcrunch.com/2015/04/18/you-dont-need-a-digital-strategy-you-need-a-digitally-transformed-company/"
+  ],
+  "updated_at": "2015-07-01 05:37:03 UTC",
+  "LecturaObligatoria2015": "http://www.kpcb.com/internet-trends",
+  "CorreoQueTalTodo20150630": "https://mail.google.com/mail/u/0/#inbox/14e441e0daadff1f"
 }

@@ -1,0 +1,20 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/UNTIPOFELIZ",
+  "auido": "UNTIPOFELIZ",
+  "created_at": "2015-03-18 11:48:13 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "transliterated": "untipofeliz",
+  "filename": "UNTIPOFELIZ",
+  "json_url": "http://otaony.com:5005/tuits/UNTIPOFELIZ.json",
+  "behance": "http://behance.net/untipofeliz",
+  "twitter": "untipofeliz",
+  "reflexion": "EL EVENTO",
+  "recomienda ver": "El lado oscuro del corazón",
+  "updated_at": "2015-05-28 19:21:21 UTC"
+}

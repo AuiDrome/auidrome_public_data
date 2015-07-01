@@ -9,7 +9,15 @@
   "madrino": [
 
   ],
+  "transliterated": "anafichajes",
+  "filename": "AnaFichajes",
+  "json_url": "http://otaony.com:5005/tuits/AnaFichajes.json",
   "amiga del...": "¡¡¡METAAAAAAL!!! :)",
   "skype": "ANAHRTCK",
-  "equipo": "RECURSOS HERMANOS"
+  "equipo": [
+    "RECURSOS HERMANOS",
+    "CONTACTO"
+  ],
+  "email": "http://otaony.com:10001/tuits/M%C3%BAsica-trabajando-en-TCK",
+  "updated_at": "2015-06-02 06:16:00 UTC"
 }

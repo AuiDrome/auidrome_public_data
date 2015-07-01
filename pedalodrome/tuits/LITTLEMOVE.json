@@ -2,15 +2,5 @@
   "@context": "http://otaony.com:5005/json-context.json",
   "@id": "http://otaony.com:5005/tuits/LITTLEMOVE",
   "auido": "LITTLEMOVE",
-  "created_at": "2014-12-22 08:05:49 UTC",
-  "identity": [
-
-  ],
-  "madrino": [
-    "twitter/colgado",
-    "twitter/colgado_es"
-  ],
-  "proyecto": "LIVIEGO",
-  "aka": "DIEGO",
-  "recomienda leer": "CRADLE-TO-CRADLE"
+  "created_at": "2014-12-22 08:05:49 UTC"
 }

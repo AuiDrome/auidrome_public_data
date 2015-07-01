@@ -9,9 +9,15 @@
   "madrino": [
 
   ],
-  "recommend": [
+  "transliterated": "freddy",
+  "filename": "FREDDY",
+  "json_url": "http://otaony.com:5005/tuits/FREDDY.json",
+  "recomienda leer": [
     "POPULARITY-DRIVEN DEVELOPMENT",
-    "REACTIVE PROGRAMMING"
+    "REACTIVE PROGRAMMING",
+    "HowtoUndoWithGit"
   ],
-  "codetail": "REFACTORIZACIONES INDOLORAS"
+  "codetail": "REFACTORIZACIONES INDOLORAS",
+  "proyecto": "ALMUEDDY",
+  "updated_at": "2015-06-09 15:34:23 UTC"
 }
