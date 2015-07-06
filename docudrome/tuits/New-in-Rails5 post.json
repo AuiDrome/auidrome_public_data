@@ -9,11 +9,17 @@
   "madrino": [
 
   ],
-  "url": "https://medium.com/evil-martians/the-rails-5-post-9c76dbac8fc",
+  "transliterated": "new-in-rails5 post",
+  "filename": "New-in-Rails5 post",
+  "json_url": "http://otaony.com:10001/tuits/New-in-Rails5 post.json",
+  "pre-railsconf post": "https://medium.com/evil-martians/the-rails-5-post-9c76dbac8fc",
+  "url": "https://medium.com/evil-martians/it-was-my-first-railsconf-first-both-as-a-speaker-and-attendee-i-ve-been-to-many-other-3d172aade557",
   "vía": "ELTERCERO",
   "tags": [
     "POST",
     "RAILS",
     "whatsnew"
-  ]
+  ],
+  "evento": "RAILSCONF-ATL2015",
+  "updated_at": "2015-06-05 09:39:22 UTC"
 }

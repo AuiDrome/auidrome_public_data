@@ -1,0 +1,28 @@
+{
+  "@context": "http://otaony.com:30003/json-context.json",
+  "@id": "http://otaony.com:30003/tuits/Neo4jFundamentals",
+  "auido": "Neo4jFundamentals",
+  "created_at": "2015-06-12 11:08:50 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "neo4jfundamentals",
+  "filename": "neo4jfundamentals",
+  "json_url": "http://otaony.com:30003/tuits/neo4jfundamentals.json",
+  "organizado por": "Neo4j",
+  "ponente": "PERDOMO",
+  "updated_at": "2015-06-12 15:52:27 UTC",
+  "asistente": [
+    "LuisZoritaVicente",
+    "SANTIAGOMOTA",
+    "SergioDelgado"
+  ],
+  "note": "CONSEJO A KEANU REEVES",
+  "foto": [
+    "https://instagram.com/p/3yMkkDImAh/",
+    "https://instagram.com/p/3yT-LOImJK/"
+  ]
+}

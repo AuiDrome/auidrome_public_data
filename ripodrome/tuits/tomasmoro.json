@@ -1,0 +1,23 @@
+{
+  "@context": "http://otaony.com:8008/json-context.json",
+  "@id": "http://otaony.com:8008/tuits/Tom%C3%A1sMoro",
+  "auido": "TomásMoro",
+  "created_at": "2015-06-04 08:18:16 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "tomasmoro",
+  "filename": "tomasmoro",
+  "json_url": "http://otaony.com:8008/tuits/tomasmoro.json",
+  "obra": "UTOPIA",
+  "updated_at": "2015-06-04 08:40:46 UTC",
+  "aka": "Sir Thomas More",
+  "amigo": "ErasmoDeRotterdam",
+  "url": "http://es.wikipedia.org/wiki/Tom%C3%A1s_Moro",
+  "desde": "1478",
+  "hasta": "1535",
+  "de": "LONDRES"
+}

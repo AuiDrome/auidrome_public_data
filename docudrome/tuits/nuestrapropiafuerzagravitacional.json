@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/NuestraPropiaFuerzaGravitacional",
+  "auido": "NuestraPropiaFuerzaGravitacional",
+  "created_at": "2015-06-08 09:06:14 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "nuestrapropiafuerzagravitacional",
+  "filename": "nuestrapropiafuerzagravitacional",
+  "json_url": "http://otaony.com:10001/tuits/nuestrapropiafuerzagravitacional.json",
+  "post": "http://www.fierasdelaingenieria.com/suelos-que-producen-electricidad-en-estaciones-de-tren/",
+  "updated_at": "2015-06-30 10:56:28 UTC",
+  "vía": "MIGUEL",
+  "note": "EnergíaDesdeElSuelo"
+}

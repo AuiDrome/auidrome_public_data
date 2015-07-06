@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:50005/json-context.json",
+  "@id": "http://otaony.com:50005/tuits/EL+MURO",
+  "auido": "EL MURO",
+  "created_at": "2015-06-02 09:23:08 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "transliterated": "el muro",
+  "filename": "el muro",
+  "json_url": "http://otaony.com:50005/tuits/el+muro.json",
+  "updated_at": "2015-06-03 10:41:11 UTC",
+  "vía proyecto": "ElBosqueDeLosJuegos.com"
+}

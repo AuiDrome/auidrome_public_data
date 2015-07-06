@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:50005/json-context.json",
+  "@id": "http://otaony.com:50005/tuits/EL%20COLADOR",
+  "auido": "EL COLADOR",
+  "created_at": "2015-06-03 16:58:14 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado_es"
+  ],
+  "transliterated": "el colador",
+  "filename": "el colador",
+  "json_url": "http://otaony.com:50005/tuits/el colador.json",
+  "updated_at": "2015-06-03 16:59:44 UTC",
+  "vía proyecto": "ElBosqueDeLosJuegos.com"
+}

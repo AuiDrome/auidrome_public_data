@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:3333/json-context.json",
+  "@id": "http://otaony.com:3333/tuits/LUKE",
+  "auido": "LUKE",
+  "created_at": "2015-06-12 22:24:50 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "luke",
+  "filename": "LUKE",
+  "json_url": "http://otaony.com:3333/tuits/LUKE.json",
+  "anmiga": "RUBY",
+  "updated_at": "2015-06-12 22:32:52 UTC",
+  "amigo": "PERDOMO"
+}

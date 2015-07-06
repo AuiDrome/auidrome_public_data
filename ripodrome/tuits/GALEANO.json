@@ -9,7 +9,22 @@
   "madrino": [
     "twitter/colgado"
   ],
-  "Twitter": "@EduardoGaleano",
+  "transliterated": "galeano",
+  "filename": "GALEANO",
+  "json_url": "http://otaony.com:8008/tuits/GALEANO.json",
+  "twitter": "@EduardoGaleano",
   "trabajo": "MARACAIBO Y LOS BUITRES",
-  "fromdrome": "restodrome"
+  "fromdrome": "restodrome",
+  "youtube": [
+    "bdn31Gec22Y",
+    "JEgH0j7hdTU"
+  ],
+  "updated_at": "2015-06-04 09:09:32 UTC",
+  "desde": "1940",
+  "hasta": "2015",
+  "from": [
+    "Montevideo",
+    "URUGUAY"
+  ],
+  "amigo": "FernandoBirri"
 }

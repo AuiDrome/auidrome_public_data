@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/StackOverflow-2015-Survey",
+  "auido": "StackOverflow-2015-Survey",
+  "created_at": "2015-05-19 08:54:09 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "url": "http://stackoverflow.com/research/developer-survey-2015",
+  "vía": "FREDDY",
+  "email": "https://mail.google.com/mail/u/0/#inbox/14d6b57b4c1b2ae2"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/MANÍAS",
+  "auido": "MANÍAS",
+  "created_at": "2015-05-21 05:41:02 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "autor": "SANTI",
+  "vimeo": "121024087",
+  "email primicia": "https://mail.google.com/mail/u/0/#inbox/14d71ed34d2891b6"
+}

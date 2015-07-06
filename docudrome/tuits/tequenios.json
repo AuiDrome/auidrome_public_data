@@ -1,0 +1,20 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/TEQUE%C3%91OS",
+  "auido": "TEQUEÑOS",
+  "created_at": "2015-06-01 09:05:11 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "tequenios",
+  "filename": "tequenios",
+  "json_url": "http://otaony.com:10001/tuits/tequenios.json",
+  "vía": "FREDDY",
+  "updated_at": "2015-06-01 09:45:51 UTC",
+  "email": "https://mail.google.com/mail/u/0/#inbox/14dae4cfbba10a94",
+  "tags": "RECETA",
+  "receta": "http://www.quericavida.com/recetas/tequenos-venezolanos/#"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/LoboAullandoALaLuna",
+  "auido": "LoboAullandoALaLuna",
+  "created_at": "2015-05-31 20:02:12 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "transliterated": "loboaullandoalaluna",
+  "filename": "LoboAullandoALaLuna",
+  "json_url": "http://otaony.com:10001/tuits/LoboAullandoALaLuna.json",
+  "updated_at": "2015-05-31 20:06:14 UTC",
+  "autora": "OLALLA"
+}

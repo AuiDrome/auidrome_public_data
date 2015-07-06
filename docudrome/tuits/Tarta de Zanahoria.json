@@ -9,6 +9,9 @@
   "madrino": [
 
   ],
+  "transliterated": "tarta de zanahoria",
+  "filename": "Tarta de Zanahoria",
+  "json_url": "http://otaony.com:10001/tuits/Tarta de Zanahoria.json",
   "autora": "ISABELBAU",
   "____para____": [
     ":confetti_ball:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:confetti_ball:",
@@ -22,7 +25,6 @@
     "100g de coco rallado",
     ":rabbit2:"
   ],
-  
   "Elaboración": [
     "1. Pelar las zanahorias.",
     "2. Cocerlas hasta que estén blanditas.",
@@ -34,5 +36,7 @@
     "8. Dejar reposar al menos 4 horas en la nevera, si son más mejor.",
     ":dog: :hamster: :monkey: :cat: :mouse: :beetle: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :beetle: :mouse: :cat: :monkey: :hamster: :dog:",
     ":rabbit::cake::rabbit:"
-  ]
+  ],
+  "tags": "RECETA",
+  "updated_at": "2015-06-01 08:58:12 UTC"
 }

@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:7007/json-context.json",
+  "@id": "http://otaony.com:7007/tuits/AdrianoCelentano",
+  "auido": "AdrianoCelentano",
+  "created_at": "2015-05-20 10:45:55 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "vía": "PACO"
+}

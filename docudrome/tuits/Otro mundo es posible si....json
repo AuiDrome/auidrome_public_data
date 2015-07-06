@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/Otro mundo es posible si...",
+  "auido": "Otro mundo es posible si...",
+  "created_at": "2015-05-26 06:40:34 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "url": "http://www.amazon.es/Otro-mundo-posible-Encuentro-icaria/dp/847426703X%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduckduckgo-ffab-es-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D847426703X",
+  "autora": "SUSAN"
+}

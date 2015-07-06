@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/GraphsOnForbes",
+  "auido": "GraphsOnForbes",
+  "created_at": "2015-06-19 08:18:11 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "graphsonforbes",
+  "filename": "graphsonforbes",
+  "json_url": "http://otaony.com:10001/tuits/graphsonforbes.json",
+  "url": "http://www.forbes.com/sites/ciocentral/2015/04/06/the-hype-around-graph-databases-and-why-it-matters/",
+  "updated_at": "2015-06-19 08:20:33 UTC"
+}

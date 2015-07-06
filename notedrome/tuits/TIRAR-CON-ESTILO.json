@@ -9,8 +9,14 @@
   "madrino": [
     "twitter/colgado"
   ],
+  "transliterated": "tirar-con-estilo",
+  "filename": "TIRAR-CON-ESTILO",
+  "json_url": "http://otaony.com:10003/tuits/TIRAR-CON-ESTILO.json",
   "email": "https://mail.google.com/mail/u/0/#sent/14bdef3991101afb",
-  "ruby": "https://github.com/the-cocktail/ruby-style-guide",
+  "ruby": [
+    "https://github.com/the-cocktail/ruby-style-guide",
+    "https://github.com/bbatsov/ruby-style-guide/issues/162"
+  ],
   "php": "http://phpdevenezuela.github.io/php-the-right-way",
   "rails": "https://github.com/the-cocktail/rails-style-guide",
   "drupal": "https://www.drupal.org/coding-standards",
@@ -26,5 +32,7 @@
     "MANFREDRUHMER"
   ],
   "monólogo sobre and/or": "http://lacoctuitera.es/updates/54f75bdcae5f50000300043d",
-  "posts": "https://robots.thoughtbot.com/code-show-and-tell-polymorphic-finder"
+  "posts": "https://robots.thoughtbot.com/code-show-and-tell-polymorphic-finder",
+  "updated_at": "2015-07-02 08:10:41 UTC",
+  "inspiración": "JIMWEIRICH"
 }

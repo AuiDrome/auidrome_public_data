@@ -1,0 +1,20 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/LaEducaci%C3%B3nCu%C3%A1ntica",
+  "auido": "LaEducaciónCuántica",
+  "created_at": "2015-06-12 10:20:05 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "laeducacioncuantica",
+  "filename": "laeducacioncuantica",
+  "json_url": "http://otaony.com:10001/tuits/laeducacioncuantica.json",
+  "autor": "AmadorMartosGarcía",
+  "updated_at": "2015-06-12 10:25:04 UTC",
+  "pdf": "http://www.pensarenserrico.es/pensar/pages/images/uploads/13.pdf",
+  "ebook": "http://www.casadellibro.com/ebook-la-educacion-cuantica-ebook/9788415465713/2489939",
+  "web": "https://www.facebook.com/laeducacioncuantica"
+}

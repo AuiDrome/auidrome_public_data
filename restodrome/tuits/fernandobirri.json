@@ -1,0 +1,24 @@
+{
+  "@context": "http://otaony.com:7007/json-context.json",
+  "@id": "http://otaony.com:7007/tuits/FernandoBirri",
+  "auido": "FernandoBirri",
+  "created_at": "2015-06-04 08:59:14 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "fernandobirri",
+  "filename": "fernandobirri",
+  "json_url": "http://otaony.com:7007/tuits/fernandobirri.json",
+  "from": [
+    "Santa Fe",
+    "ARGENTINA"
+  ],
+  "updated_at": "2015-06-04 09:14:49 UTC",
+  "desde": "1925",
+  "amigo": "GALEANO",
+  "derechos foto": "\"<a href=\"https://commons.wikimedia.org/wiki/File:Fernando_Birri_(Ceremonia_de_Clausura).jpg#/media/File:Fernando_Birri_(Ceremonia_de_Clausura).jpg\">Fernando Birri (Ceremonia de Clausura)</a>\" by <a rel=\"nofollow\" class=\"external text\" href=\"http://flickr.com/photos/21373185@N04\">Festival Internacional de Cine en Guadalajara</a> - originally posted to <a href=\"//commons.wikimedia.org/wiki/Flickr\" title=\"Flickr\" class=\"mw-redirect\">Flickr</a> as <a rel=\"nofollow\" class=\"external text\" href=\"http://flickr.com/photos/21373185@N04/2334475584\">Ceremonia de Clausura</a>. Licensed under <a title=\"Creative Commons Attribution 2.0\" href=\"http://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a> via <a href=\"//commons.wikimedia.org/wiki/\">Wikimedia Commons</a>.",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fernando_Birri"
+}

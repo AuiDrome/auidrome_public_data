@@ -9,9 +9,14 @@
   "madrino": [
 
   ],
+  "transliterated": "growing",
+  "filename": "Growing",
+  "json_url": "http://otaony.com:10001/tuits/Growing.json",
   "ponente": "GERARDOBARCIA",
   "evento": [
     "MADRID-RB"
   ],
-  "web": "http://www.madridrb.com/topics/building-live-things-like-software"
+  "web": "http://www.madridrb.com/topics/building-live-things-like-software",
+  "vimeo": "130040695",
+  "updated_at": "2015-06-08 10:43:37 UTC"
 }

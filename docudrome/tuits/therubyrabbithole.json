@@ -1,0 +1,20 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/TheRubyRabbitHole",
+  "auido": "TheRubyRabbitHole",
+  "created_at": "2015-06-29 08:07:17 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "therubyrabbithole",
+  "filename": "therubyrabbithole",
+  "json_url": "http://otaony.com:10001/tuits/therubyrabbithole.json",
+  "tags": "POST",
+  "updated_at": "2015-07-02 08:04:17 UTC",
+  "url": "https://sectionfive.net/blog/2014/12/09/the-ruby-rabbit-hole/",
+  "vía": "ÁLVAROSÁNCHEZ",
+  "tuiteado por": "MATZ"
+}

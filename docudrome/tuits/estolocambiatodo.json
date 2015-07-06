@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/EstoLoCambiaTodo",
+  "auido": "EstoLoCambiaTodo",
+  "created_at": "2015-06-26 15:03:03 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "estolocambiatodo",
+  "filename": "estolocambiatodo",
+  "json_url": "http://otaony.com:10001/tuits/estolocambiatodo.json",
+  "autora": "NaomiKlein",
+  "updated_at": "2015-06-26 15:06:55 UTC",
+  "url": "http://www.amazon.com/Esto-cambia-todo-capitalismo-Spanish-ebook/dp/B00UGE2W1K",
+  "vía": "JoanAMelé"
+}

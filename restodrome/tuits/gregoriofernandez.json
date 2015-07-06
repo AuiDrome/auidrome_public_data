@@ -1,0 +1,22 @@
+{
+  "@context": "http://otaony.com:7007/json-context.json",
+  "@id": "http://otaony.com:7007/tuits/GregorioFern%C3%A1ndez",
+  "auido": "GregorioFernández",
+  "created_at": "2015-06-12 06:18:27 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "gregoriofernandez",
+  "filename": "gregoriofernandez",
+  "json_url": "http://otaony.com:7007/tuits/gregoriofernandez.json",
+  "página UPM": "http://www.gsi.dit.upm.es/index.php?option=com_jresearch&view=member&id=19&task=show&Itemid=75",
+  "updated_at": "2015-06-12 07:56:05 UTC",
+  "vía": "ISABELBAU",
+  "tags": [
+    "UPM",
+    "CONOCIMIENTO"
+  ]
+}

@@ -8,7 +8,12 @@
     "twitter/colgado_es"
   ],
   "madrino": [
-    "twitter/colgado"
+    "twitter/colgado",
+    "twitter/colgado_es"
   ],
-  "proyecto": "POZUELADA"
+  "transliterated": "lua",
+  "filename": "LUA",
+  "json_url": "http://otaony.com:3333/tuits/LUA.json",
+  "proyecto": "POZUELADA",
+  "updated_at": "2015-07-01 10:02:30 UTC"
 }

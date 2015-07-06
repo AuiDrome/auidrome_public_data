@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:50005/json-context.json",
+  "@id": "http://otaony.com:50005/tuits/LOS%20AROS",
+  "auido": "LOS AROS",
+  "created_at": "2015-06-03 17:07:21 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "los aros",
+  "filename": "los aros",
+  "json_url": "http://otaony.com:50005/tuits/los aros.json",
+  "vía proyecto": "ElBosqueDeLosJuegos.com",
+  "updated_at": "2015-06-03 17:08:01 UTC"
+}

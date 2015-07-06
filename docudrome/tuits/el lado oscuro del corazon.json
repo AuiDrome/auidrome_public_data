@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/El%20lado%20oscuro%20del%20coraz%C3%B3n",
+  "auido": "El lado oscuro del corazón",
+  "created_at": "2015-05-28 19:18:47 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "el lado oscuro del corazon",
+  "filename": "el lado oscuro del corazon",
+  "json_url": "http://otaony.com:10001/tuits/el lado oscuro del corazon.json",
+  "updated_at": "2015-06-02 06:39:55 UTC",
+  "vía": "UNTIPOFELIZ",
+  "youtube": "hEk6LVGPrf8"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/Taiwan%20and%20The%20Future%20of%20Democracy",
+  "auido": "Taiwan and The Future of Democracy",
+  "created_at": "2015-05-30 09:58:29 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "taiwan and the future of democracy",
+  "filename": "taiwan and the future of democracy",
+  "json_url": "http://otaony.com:10001/tuits/taiwan and the future of democracy.json",
+  "post": "http://blog.loomio.org/2015/04/13/g0v-summit-2014-taiwan-and-the-future-of-democracy/",
+  "updated_at": "2015-05-30 10:02:38 UTC",
+  "author": "RICHDBARLETT"
+}

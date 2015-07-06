@@ -1,0 +1,14 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/MADRIDconMANUELA",
+  "auido": "MADRIDconMANUELA",
+  "created_at": "2015-05-26 06:24:26 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "sluggarized": "MADRIDconMANUELA",
+  "autor": "FernandoGonzález"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:10001/json-context.json",
+  "@id": "http://otaony.com:10001/tuits/Música-trabajando-en-TCK",
+  "auido": "Música-trabajando-en-TCK",
+  "created_at": "2015-05-19 09:24:31 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "email": "https://mail.google.com/mail/u/0/#inbox/14d662e33e537309",
+  "proyecto": [
+    "RainWave.CC",
+    "MusicForProgramming.NET"
+  ],
+  "autora": "AnaFichajes"
+}
