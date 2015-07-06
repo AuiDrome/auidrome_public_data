@@ -1,0 +1,22 @@
+{
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/AMANDA.ORG",
+  "auido": "AMANDA.ORG",
+  "created_at": "2015-07-06 08:26:03 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "amanda.org",
+  "filename": "amanda.org",
+  "json_url": "http://otaony.com:6006/tuits/amanda.org.json",
+  "ha pedaleado con": "TheCocktailAnalysis",
+  "updated_at": "2015-07-06 08:43:50 UTC",
+  "email de despedida": "https://mail.google.com/mail/u/0/#inbox/14e52db6af64a520",
+  "vimeo": "5659003",
+  "tel.": "???",
+  "email": "amandafigueras@gmail.com",
+  "entrada en el pedalódromo": "http://otaony.com:5005/tuits/AMANDA"
+}

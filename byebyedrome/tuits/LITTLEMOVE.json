@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:5005/json-context.json",
+  "@id": "http://otaony.com:5005/tuits/LITTLEMOVE",
+  "auido": "LITTLEMOVE",
+  "created_at": "2014-12-22 08:05:49 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado",
+    "twitter/colgado_es"
+  ],
+  "proyecto": "LIVIEGO",
+  "aka": "DIEGO",
+  "recomienda leer": "CRADLE-TO-CRADLE",
+  "despedida": "Para lo que me queda en El Convento, me cago dentro: que se sepa que sois La Hostia.",
+  "email despedida": "https://mail.google.com/mail/u/0/#inbox/14d71b240108a28c",
+  "recomienda el proyecto": "MusicForProgramming.NET"
+}

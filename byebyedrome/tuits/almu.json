@@ -1,0 +1,16 @@
+{
+  "@context": "http://otaony.com:6006/json-context.json",
+  "@id": "http://otaony.com:6006/tuits/ALMU",
+  "auido": "ALMU",
+  "created_at": "2015-06-01 10:31:33 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/almu2584"
+  ],
+  "transliterated": "almu",
+  "filename": "almu",
+  "json_url": "http://otaony.com:6006/tuits/almu.json",
+  "updated_at": "2015-06-01 11:23:59 UTC"
+}
