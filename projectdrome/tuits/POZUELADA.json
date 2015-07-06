@@ -9,6 +9,9 @@
   "madrino": [
 
   ],
+  "transliterated": "pozuelada",
+  "filename": "POZUELADA",
+  "json_url": "http://otaony.com:20002/tuits/POZUELADA.json",
   "pedalea": [
     "SARA",
     "NANDO"
@@ -23,5 +26,9 @@
   ],
   "tree": "BRAVE",
   "plant": "DIZZY",
-  "dialog": "NUNCA MÁIS"
+  "dialog": "NUNCA MÁIS",
+  "tags": "DEPAREJA",
+  "enfermera": "IsaMiralles",
+  "updated_at": "2015-06-10 14:15:20 UTC",
+  "cuadro": "DOGMOUNT"
 }

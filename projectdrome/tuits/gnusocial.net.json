@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/GNUsocial.NET",
+  "auido": "GNUsocial.NET",
+  "created_at": "2015-06-02 07:13:53 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "gnusocial.net",
+  "filename": "gnusocial.net",
+  "json_url": "http://otaony.com:20002/tuits/gnusocial.net.json",
+  "wikipedia": "https://en.wikipedia.org/wiki/GNU_social",
+  "updated_at": "2015-06-02 07:14:34 UTC"
+}

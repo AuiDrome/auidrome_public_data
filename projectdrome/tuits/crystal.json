@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/CRYSTAL",
+  "auido": "CRYSTAL",
+  "created_at": "2015-06-24 09:42:41 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "crystal",
+  "filename": "crystal",
+  "json_url": "http://otaony.com:20002/tuits/crystal.json",
+  "proyecto relacionado": "RUBY",
+  "updated_at": "2015-06-24 09:43:49 UTC",
+  "web": "http://crystal-lang.org/",
+  "tags": "LENGUAJE"
+}

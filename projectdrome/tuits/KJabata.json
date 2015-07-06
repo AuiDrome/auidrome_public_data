@@ -1,0 +1,13 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/KJabata",
+  "auido": "KJabata",
+  "created_at": "2015-05-20 05:51:25 UTC",
+  "identity": [
+    "twitter/colgado_es"
+  ],
+  "madrino": [
+
+  ],
+  "triatlog": "WebAudioAPI-y-KJabata"
+}

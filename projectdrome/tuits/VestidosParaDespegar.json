@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/VestidosParaDespegar",
+  "auido": "VestidosParaDespegar",
+  "created_at": "2015-06-27 17:06:31 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "vestidosparadespegar",
+  "filename": "VestidosParaDespegar",
+  "json_url": "http://otaony.com:20002/tuits/VestidosParaDespegar.json",
+  "pedalea": "Coli",
+  "updated_at": "2015-06-27 17:08:33 UTC"
+}

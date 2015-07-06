@@ -1,0 +1,24 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/AhoraMadrid",
+  "auido": "AhoraMadrid",
+  "created_at": "2015-06-14 21:00:22 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "ahoramadrid",
+  "filename": "ahoramadrid",
+  "json_url": "http://otaony.com:20002/tuits/ahoramadrid.json",
+  "tags": [
+    "MADRID",
+    "ALCALDESA"
+  ],
+  "updated_at": "2015-06-14 21:02:12 UTC",
+  "pedalea": [
+    "MANUELA",
+    "PabloSoto"
+  ]
+}

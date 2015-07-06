@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/SteamOS",
+  "auido": "SteamOS",
+  "created_at": "2015-05-28 09:40:47 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "steamos",
+  "filename": "steamos",
+  "json_url": "http://otaony.com:20002/tuits/steamos.json",
+  "vía": "CARLOS",
+  "updated_at": "2015-05-28 10:19:37 UTC",
+  "source": "http://repo.steampowered.com/steamos/",
+  "web": "http://store.steampowered.com/livingroom/SteamOS/"
+}

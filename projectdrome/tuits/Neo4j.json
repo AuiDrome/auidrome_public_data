@@ -9,9 +9,13 @@
   "madrino": [
 
   ],
+  "transliterated": "neo4j",
+  "filename": "Neo4j",
+  "json_url": "http://otaony.com:20002/tuits/Neo4j.json",
   "pedalea": [
     "WilliamBrooks",
-    "AileenAgricola"
+    "AileenAgricola",
+    "StefanArmbruster"
   ],
   "aka": "Neo Technology",
   "web": "neo4j.com",
@@ -19,5 +23,8 @@
     "PERDOMO"
   ],
   "hosted by": "GrapheneDB.com",
-  "doc": "Graph Databases"
+  "doc": "Graph Databases",
+  "updated_at": "2015-07-05 20:21:00 UTC",
+  "organiza": "Neo4jFundamentals",
+  "presentación Primeros Pasos": "http://es.slideshare.net/utaladriz/primeros-pasos-con-neo4j"
 }

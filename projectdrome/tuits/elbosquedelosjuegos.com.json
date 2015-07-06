@@ -1,0 +1,22 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/ElBosqueDeLosJuegos.com",
+  "auido": "ElBosqueDeLosJuegos.com",
+  "created_at": "2015-06-02 09:17:24 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "elbosquedelosjuegos.com",
+  "filename": "elbosquedelosjuegos.com",
+  "json_url": "http://otaony.com:20002/tuits/elbosquedelosjuegos.com.json",
+  "juegos": "¡DESENCHUFADOS!",
+  "updated_at": "2015-06-04 08:07:43 UTC",
+  "juego": [
+    "EL MURO",
+    "EL COLADOR",
+    "LOS AROS"
+  ]
+}

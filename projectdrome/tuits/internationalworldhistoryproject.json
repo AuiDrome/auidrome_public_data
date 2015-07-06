@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/InternationalWorldHistoryProject",
+  "auido": "InternationalWorldHistoryProject",
+  "created_at": "2015-06-04 08:09:45 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "internationalworldhistoryproject",
+  "filename": "internationalworldhistoryproject",
+  "json_url": "http://otaony.com:20002/tuits/internationalworldhistoryproject.json",
+  "web": "History-World.ORG",
+  "updated_at": "2015-06-04 08:12:09 UTC",
+  "libro": "UTOPIA"
+}

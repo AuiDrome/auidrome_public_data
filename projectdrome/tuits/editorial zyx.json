@@ -1,0 +1,20 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/Editorial%20ZYX",
+  "auido": "Editorial ZYX",
+  "created_at": "2015-06-05 11:10:39 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "editorial zyx",
+  "filename": "editorial zyx",
+  "json_url": "http://otaony.com:20002/tuits/editorial zyx.json",
+  "vía tweets": "https://twitter.com/colgado/status/606779843926228992",
+  "updated_at": "2015-06-05 11:54:07 UTC",
+  "ivoox": "http://www.ivoox.com/zyx-la-editorial-obrera-mas-importante-la-audios-mp3_rf_1081305_1.html",
+  "vía": "BUENHOMBRE",
+  "obra": "UTOPIA"
+}

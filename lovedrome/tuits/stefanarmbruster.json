@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/StefanArmbruster",
+  "auido": "StefanArmbruster",
+  "created_at": "2015-07-05 19:44:45 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "stefanarmbruster",
+  "filename": "stefanarmbruster",
+  "json_url": "http://otaony.com:6556/tuits/stefanarmbruster.json",
+  "proyecto": "Neo4j",
+  "updated_at": "2015-07-05 20:23:24 UTC",
+  "email": "https://mail.google.com/mail/u/0/#sent/14e1f5410467e634"
+}

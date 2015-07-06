@@ -1,0 +1,20 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/Robin",
+  "auido": "Robin",
+  "created_at": "2015-07-02 09:13:39 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "robin",
+  "filename": "robin",
+  "json_url": "http://otaony.com:6556/tuits/robin.json",
+  "tags": "RAILS",
+  "updated_at": "2015-07-02 09:23:08 UTC",
+  "commit": "bc71e43252c49e990dbe22ee0cb3c017a6026d04",
+  "fullname": "Robin Dupret",
+  "#CUN": "200"
+}

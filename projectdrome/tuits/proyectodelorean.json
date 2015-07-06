@@ -1,0 +1,21 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/ProyectoDelorean",
+  "auido": "ProyectoDelorean",
+  "created_at": "2015-06-01 10:36:23 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "proyectodelorean",
+  "filename": "proyectodelorean",
+  "json_url": "http://otaony.com:20002/tuits/proyectodelorean.json",
+  "pedalea": [
+    "RAFAELGARCÍA",
+    "ANDER",
+    "JOSÉIGNACIOALBALADEJO"
+  ],
+  "updated_at": "2015-06-01 10:39:35 UTC"
+}

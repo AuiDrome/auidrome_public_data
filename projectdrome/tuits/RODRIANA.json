@@ -1,0 +1,22 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/RODRIANA",
+  "auido": "RODRIANA",
+  "created_at": "2015-05-19 08:11:52 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+    "twitter/colgado"
+  ],
+  "pedalea": [
+    "AnaGasco",
+    "RODRIGO"
+  ],
+  "becario": [
+    "Rui",
+    "Mateo"
+  ],
+  "vehículo de la felicidad": "https://instagram.com/p/0z_o8RSbrF/",
+  "tags": "DEPAREJA"
+}

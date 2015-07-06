@@ -1,0 +1,25 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/UnGrid",
+  "auido": "UnGrid",
+  "created_at": "2015-06-01 08:18:54 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "ungrid",
+  "filename": "ungrid",
+  "json_url": "http://otaony.com:20002/tuits/ungrid.json",
+  "vía": [
+    "PEPE",
+    "ALE"
+  ],
+  "updated_at": "2015-06-01 08:25:45 UTC",
+  "url": "http://chrisnager.github.io/ungrid/",
+  "tags": [
+    "MAQUETACIÓN",
+    "CSS"
+  ]
+}

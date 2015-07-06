@@ -1,0 +1,22 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/UniversoLiberBank",
+  "auido": "UniversoLiberBank",
+  "created_at": "2015-05-29 07:34:44 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "universoliberbank",
+  "filename": "universoliberbank",
+  "json_url": "http://otaony.com:20002/tuits/universoliberbank.json",
+  "pedalea": [
+    "ALMU",
+    "ALEXLEÓN",
+    "ROSSI"
+  ],
+  "updated_at": "2015-06-01 10:44:43 UTC",
+  "becario": "NANDO"
+}

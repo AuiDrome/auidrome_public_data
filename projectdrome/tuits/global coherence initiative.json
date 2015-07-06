@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/Global%20Coherence%20Initiative",
+  "auido": "Global Coherence Initiative",
+  "created_at": "2015-05-30 12:28:00 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "global coherence initiative",
+  "filename": "global coherence initiative",
+  "json_url": "http://otaony.com:20002/tuits/global coherence initiative.json",
+  "siglas": "CGI",
+  "updated_at": "2015-05-30 12:29:29 UTC",
+  "web": "heartmath.org/gci",
+  "parte del proyecto": "HearthMath.org"
+}

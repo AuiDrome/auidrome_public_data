@@ -13,7 +13,8 @@
   "filename": "kasper",
   "json_url": "http://otaony.com:6556/tuits/kasper.json",
   "tags": "RAILS",
-  "updated_at": "2015-07-01 10:15:30 UTC",
+  "updated_at": "2015-07-02 09:25:32 UTC",
   "commit": "1099e54b497ec3ec08d8913f8a899681719a0e4b",
-  "fullname": "Kasper Timm Hansen"
+  "fullname": "Kasper Timm Hansen",
+  "#CUN": "54"
 }

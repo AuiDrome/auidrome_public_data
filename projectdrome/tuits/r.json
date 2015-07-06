@@ -1,0 +1,19 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/R",
+  "auido": "R",
+  "created_at": "2015-06-15 09:31:05 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "r",
+  "filename": "r",
+  "json_url": "http://otaony.com:20002/tuits/r.json",
+  "wikipedia": "https://es.wikipedia.org/wiki/R_(lenguaje_de_programaci%C3%B3n)",
+  "updated_at": "2015-06-15 09:46:03 UTC",
+  "vía": "SANTIAGOMOTA",
+  "consejos sobre R": "https://mail.google.com/mail/u/0/#inbox/14de1f2833886ef2"
+}

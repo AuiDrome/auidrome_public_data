@@ -1,0 +1,22 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/DromeLand",
+  "auido": "DromeLand",
+  "created_at": "2015-06-01 10:45:49 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "dromeland",
+  "filename": "dromeland",
+  "json_url": "http://otaony.com:20002/tuits/dromeland.json",
+  "pedalea": [
+    "NANDO",
+    "ALMU"
+  ],
+  "updated_at": "2015-06-01 11:20:59 UTC",
+  "gran-pedalada": "GUAPERI: Glottolog como base para lanzar 'tuits'",
+  "emails": "https://mail.google.com/mail/u/0/#sent/14d9f66f10e25e6c"
+}

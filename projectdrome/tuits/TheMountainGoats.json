@@ -1,0 +1,15 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/TheMountainGoats",
+  "auido": "TheMountainGoats",
+  "created_at": "2015-05-26 08:28:03 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "tags": "MÚSICA",
+  "vía": "LITTLEMOVE",
+  "youtube": "kpTolrSnkqI"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/LaIslaDeEncanta",
+  "auido": "LaIslaDeEncanta",
+  "created_at": "2015-05-28 11:26:03 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "laisladeencanta",
+  "filename": "LaIslaDeEncanta",
+  "json_url": "http://otaony.com:20002/tuits/LaIslaDeEncanta.json",
+  "pedalea": [
+    "Coli",
+    "CésarLuquero",
+    "JCMorlop"
+  ],
+  "updated_at": "2015-06-15 08:46:26 UTC"
+}

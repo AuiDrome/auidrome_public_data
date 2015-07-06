@@ -1,0 +1,20 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/RUTA2",
+  "auido": "RUTA2",
+  "created_at": "2015-06-02 05:44:23 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "ruta2",
+  "filename": "ruta2",
+  "json_url": "http://otaony.com:20002/tuits/ruta2.json",
+  "pedalea": [
+    "PAPÁ",
+    "ANA"
+  ],
+  "updated_at": "2015-06-04 10:21:32 UTC"
+}

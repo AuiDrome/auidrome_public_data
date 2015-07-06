@@ -10,5 +10,9 @@
 
   ],
   "animal": "SUMIE",
-  "pedalea": "LITTLEMOVE"
+  "pedalea": [
+    "LITTLEMOVE",
+    "LIVIA"
+  ],
+  "tags": "DEPAREJA"
 }

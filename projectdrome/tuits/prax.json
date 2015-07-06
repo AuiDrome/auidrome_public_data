@@ -1,0 +1,23 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/PRax",
+  "auido": "PRax",
+  "created_at": "2015-06-24 08:15:01 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "prax",
+  "filename": "prax",
+  "json_url": "http://otaony.com:20002/tuits/prax.json",
+  "url": "https://github.com/ysbaddaden/prax",
+  "updated_at": "2015-06-24 09:10:32 UTC",
+  "tags": [
+    "RUBY",
+    "DEVELOPMENT"
+  ],
+  "vía": "RUBÉN",
+  "licencia": "CeCILL"
+}

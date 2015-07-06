@@ -1,0 +1,17 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/JO",
+  "auido": "JO",
+  "created_at": "2015-07-06 08:05:49 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "jo",
+  "filename": "jo",
+  "json_url": "http://otaony.com:6556/tuits/jo.json",
+  "project": "IND.IE",
+  "updated_at": "2015-07-06 08:06:18 UTC"
+}

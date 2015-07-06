@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:6556/json-context.json",
+  "@id": "http://otaony.com:6556/tuits/ALBERTO",
+  "auido": "ALBERTO",
+  "created_at": "2015-07-06 06:11:20 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "alberto",
+  "filename": "alberto",
+  "json_url": "http://otaony.com:6556/tuits/alberto.json",
+  "proyecto": "APRENDOaPROGRAMAR",
+  "updated_at": "2015-07-06 06:14:12 UTC",
+  "equipo": "UX"
+}

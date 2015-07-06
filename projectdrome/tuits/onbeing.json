@@ -1,0 +1,18 @@
+{
+  "@context": "http://otaony.com:20002/json-context.json",
+  "@id": "http://otaony.com:20002/tuits/OnBeing",
+  "auido": "OnBeing",
+  "created_at": "2015-05-31 19:06:01 UTC",
+  "identity": [
+
+  ],
+  "madrino": [
+
+  ],
+  "transliterated": "onbeing",
+  "filename": "onbeing",
+  "json_url": "http://otaony.com:20002/tuits/onbeing.json",
+  "pedalea": "KristaTippett",
+  "updated_at": "2015-05-31 19:06:15 UTC",
+  "web": "OnBeing.org"
+}
